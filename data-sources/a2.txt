@@ -1,0 +1,593 @@
+# Úroveň A2. Formát: španělsky|česky|věta s [tvarem slova]|překlad věty
+
+# Každodenní slovesa
+acabar|skončit, právě něco udělat|[Acabo] de llegar a casa.|Právě jsem dorazil domů.
+aceptar|přijmout|No [aceptan] tarjetas en este bar.|V tomhle baru neberou karty.
+acompañar|doprovodit|Te [acompaño] a la estación.|Doprovodím tě na nádraží.
+acordarse|vzpomenout si|No [me acuerdo] de su nombre.|Nevzpomínám si na jeho jméno.
+afeitarse|holit se|Mi padre [se afeita] cada mañana.|Můj otec se každé ráno holí.
+alquilar|pronajmout si|Queremos [alquilar] un coche en Mallorca.|Chceme si na Mallorce pronajmout auto.
+anunciar|oznámit|Por la radio [anunciaron] mucha lluvia.|V rádiu hlásili hodně deště.
+apagar|vypnout, zhasnout|[Apaga] la luz, por favor.|Zhasni, prosím.
+aparcar|parkovat|Es difícil [aparcar] en el centro.|V centru se těžko parkuje.
+apuntar|zapsat si, poznamenat|[Apunto] tu número en mi cuaderno.|Zapisuji si tvoje číslo do sešitu.
+arreglar|opravit, dát do pořádku|Mi padre sabe [arreglar] la lavadora.|Můj otec umí opravit pračku.
+asustarse|vyděsit se|El niño [se asustó] con el trueno.|Chlapec se vyděsil hromu.
+bajar|sejít, vystoupit, snížit|[Bajamos] en la próxima parada.|Vystupujeme na příští zastávce.
+bañarse|koupat se|Los niños [se bañan] en el mar.|Děti se koupou v moři.
+borrar|smazat|He [borrado] la foto del móvil.|Smazal jsem fotku z mobilu.
+caer|padat, spadnout|Las hojas [caen] en otoño.|Listí padá na podzim.
+caerse|spadnout, upadnout|Mi hijo [se cayó] de la bicicleta.|Můj syn spadl z kola.
+cambiar|změnit, vyměnit|Quiero [cambiar] este jersey por otro.|Chci vyměnit tento svetr za jiný.
+casarse|vzít se|Mi hermana [se casa] en junio.|Moje sestra se v červnu vdává.
+celebrar|slavit|[Celebramos] el cumpleaños en un restaurante.|Narozeniny slavíme v restauraci.
+cobrar|inkasovat, dostat zaplaceno|¿Me [cobra], por favor?|Mohl byste mi to spočítat, prosím?
+coger|vzít, chytit|[Cojo] el autobús a las ocho.|V osm jedu autobusem.
+colgar|pověsit, zavěsit|[Cuelgo] el abrigo en la silla.|Věším kabát na židli.
+comentar|komentovat, probrat|[Comentamos] la película en el bar.|V baru jsme probrali film.
+compartir|sdílet, dělit se|[Comparto] piso con dos amigos.|Sdílím byt se dvěma kamarády.
+conducir|řídit (auto)|Mi madre [conduce] muy bien.|Moje matka řídí velmi dobře.
+conseguir|získat, dosáhnout|He [conseguido] entradas para el concierto.|Sehnal jsem lístky na koncert.
+contar|počítat, vyprávět|Mi abuelo [cuenta] historias muy divertidas.|Můj dědeček vypráví velmi vtipné příběhy.
+contestar|odpovědět|No [contesta] a mis mensajes.|Neodpovídá na moje zprávy.
+continuar|pokračovat|[Continuamos] la clase después de la pausa.|Po přestávce pokračujeme v hodině.
+cortar|krájet, stříhat|[Corta] el pan, por favor.|Nakrájej chleba, prosím.
+costar|stát (o ceně)|¿Cuánto [cuesta] esa camisa?|Kolik stojí ta košile?
+crecer|růst|Los niños [crecen] muy rápido.|Děti rostou velmi rychle.
+cruzar|přejít|[Cruza] la calle con cuidado.|Přejdi ulici opatrně.
+cuidar|pečovat, starat se|[Cuido] a mi abuela los domingos.|V neděli se starám o babičku.
+deber|měl by (povinnost), dlužit|[Debes] descansar más.|Měl bys víc odpočívat.
+decidir|rozhodnout|Aún no he [decidido] nada.|Ještě jsem se nerozhodl.
+dejar|nechat, přestat|[Deja] las llaves en la mesa.|Nech klíče na stole.
+depender|záviset|[Depende] del precio.|Záleží na ceně.
+despedirse|rozloučit se|Nos [despedimos] en el aeropuerto.|Rozloučili jsme se na letišti.
+despertarse|probudit se|[Me despierto] a las seis.|Budím se v šest.
+devolver|vrátit (něco)|Tengo que [devolver] este libro.|Musím vrátit tuto knihu.
+dibujar|kreslit|Mi hija [dibuja] muy bien.|Moje dcera velmi dobře kreslí.
+disfrutar|užívat si|[Disfrutamos] mucho del viaje.|Cestu jsme si hodně užili.
+divertirse|bavit se|Nos [divertimos] mucho en la fiesta.|Na večírku jsme se skvěle bavili.
+doblar|ohnout, zahnout|[Dobla] a la izquierda en la plaza.|Na náměstí zahni doleva.
+durar|trvat|La película [dura] dos horas.|Film trvá dvě hodiny.
+echar|hodit, vhodit|[Echa] la carta en el buzón.|Vhoď dopis do schránky.
+elegir|vybrat, zvolit|[Elige] el postre que quieras.|Vyber si zákusek, jaký chceš.
+empujar|tlačit|[Empuja] la puerta para abrirla.|Zatlač na dveře, aby se otevřely.
+encender|zapnout, rozsvítit|[Enciende] la luz, por favor.|Rozsviť, prosím.
+encontrar|najít|No [encuentro] mi cartera.|Nemůžu najít peněženku.
+enfadarse|rozzlobit se|Mi jefe [se enfadó] conmigo.|Můj šéf se na mě rozzlobil.
+enseñar|učit, ukázat|Mi madre [enseña] matemáticas.|Moje matka učí matematiku.
+enviar|poslat|Te [envío] la dirección por correo.|Pošlu ti adresu e-mailem.
+equivocarse|splést se|Perdón, [me he equivocado] de número.|Promiňte, spletl jsem si číslo.
+explicar|vysvětlit|¿Me [explicas] este ejercicio?|Vysvětlíš mi toto cvičení?
+faltar|chybět|[Falta] sal en la sopa.|V polévce chybí sůl.
+firmar|podepsat|[Firme] aquí, por favor.|Podepište se tady, prosím.
+funcionar|fungovat|El ascensor no [funciona].|Výtah nefunguje.
+ganar|vyhrát, vydělat|Mi equipo [ganó] el partido.|Můj tým vyhrál zápas.
+gastar|utratit|[Gasto] mucho dinero en libros.|Utrácím hodně peněz za knihy.
+girar|otočit se, zatočit|[Gira] a la derecha en el semáforo.|Na semaforu zatoč doprava.
+guardar|uložit, schovat|[Guarda] el dinero en el bolso.|Schovej peníze do kabelky.
+hervir|vařit se, vřít|El agua ya [hierve].|Voda už vře.
+importar|záležet, vadit|No [importa], no pasa nada.|To nevadí, nic se neděje.
+intentar|zkusit, snažit se|[Intento] hablar solo en español.|Snažím se mluvit jen španělsky.
+invitar|pozvat|Te [invito] a un café.|Zvu tě na kávu.
+irse|odejít, odjet|[Me voy] a casa ahora.|Teď jdu domů.
+lavarse|umýt se|[Me lavo] las manos antes de comer.|Před jídlem si myju ruce.
+levantar|zvednout|No puedo [levantar] esta maleta.|Nemůžu zvednout tento kufr.
+limpiarse|očistit si|[Límpiate] los zapatos en la puerta.|Očisti si boty u dveří.
+llenar|naplnit|[Llena] la botella de agua.|Naplň láhev vodou.
+llorar|plakat|El bebé [llora] por la noche.|Miminko v noci pláče.
+mandar|poslat, nařídit|Te [mando] un mensaje luego.|Pošlu ti potom zprávu.
+mejorar|zlepšit|Quiero [mejorar] mi español.|Chci si zlepšit španělštinu.
+mentir|lhát|Mi hermano nunca [miente].|Můj bratr nikdy nelže.
+meter|vložit, strčit|[Mete] la ropa en la maleta.|Dej oblečení do kufru.
+molestar|obtěžovat, vadit|¿Te [molesta] la música?|Vadí ti ta hudba?
+morir|zemřít|Su abuelo [murió] el año pasado.|Jeho dědeček zemřel loni.
+mostrar|ukázat|Te [muestro] las fotos del viaje.|Ukážu ti fotky z cesty.
+mover|pohnout, přesunout|Ayúdame a [mover] esta mesa.|Pomoz mi přesunout tento stůl.
+nacer|narodit se|[Nací] en Brno en 1990.|Narodil jsem se v Brně v roce 1990.
+nevar|sněžit|En enero [nieva] en la sierra.|V lednu v horách sněží.
+notar|všimnout si, cítit|[Noto] mucho frío en esta sala.|V tomto sále cítím velkou zimu.
+ocurrir|stát se, přihodit se|¿Qué [ocurrió] ayer en la oficina?|Co se včera stalo v kanceláři?
+ofrecer|nabídnout|Te [ofrezco] mi ayuda.|Nabízím ti svou pomoc.
+oír|slyšet|No te [oigo] bien.|Špatně tě slyším.
+oler|vonět, čichat|Esta comida [huele] muy bien.|Toto jídlo moc hezky voní.
+olvidar|zapomenout|He [olvidado] el paraguas en casa.|Zapomněl jsem doma deštník.
+ordenar|uklidit, seřadit|Tengo que [ordenar] mi habitación.|Musím si uklidit pokoj.
+organizar|organizovat|[Organizamos] una fiesta para Ana.|Organizujeme večírek pro Anu.
+parar|zastavit|El autobús [para] aquí.|Autobus tady staví.
+parecer|zdát se|Este piso me [parece] muy caro.|Tento byt mi připadá velmi drahý.
+parecerse|podobat se|Mi hijo [se parece] a mi padre.|Můj syn se podobá mému otci.
+pasar|projít, strávit, stát se|[Paso] el verano en el pueblo.|Léto trávím na vesnici.
+pasear|procházet se|Nos gusta [pasear] por la playa.|Rádi se procházíme po pláži.
+pedir|žádat, objednat|[Pido] una paella para dos.|Objednávám paellu pro dva.
+pegar|přilepit, uhodit|[Pega] la foto en el cuaderno.|Přilep fotku do sešitu.
+peinarse|česat se|Mi hija [se peina] sola.|Moje dcera se češe sama.
+perder|ztratit, prohrát|He [perdido] las llaves.|Ztratil jsem klíče.
+perderse|ztratit se, zabloudit|Nos [perdimos] en el centro de Toledo.|Zabloudili jsme v centru Toleda.
+permitir|dovolit|Aquí no [permiten] fumar.|Tady se nesmí kouřit.
+pesar|vážit|La maleta [pesa] veinte kilos.|Kufr váží dvacet kilogramů.
+pintar|malovat, natírat|[Pintamos] la cocina de blanco.|Malujeme kuchyň nabílo.
+planchar|žehlit|[Plancho] las camisas los domingos.|Košile žehlím v neděli.
+practicar|cvičit, procvičovat|[Practico] español con mis vecinos.|Procvičuji španělštinu se sousedy.
+preferir|dávat přednost|[Prefiero] el té al café.|Dávám přednost čaji před kávou.
+preocuparse|dělat si starosti|No [te preocupes] por mí.|Nedělej si o mě starosti.
+preparar|připravit|[Preparo] la cena para todos.|Připravuji večeři pro všechny.
+presentar|představit|Te [presento] a mi novia.|Představím ti svou přítelkyni.
+prestar|půjčit (někomu)|¿Me [prestas] tu coche?|Půjčíš mi své auto?
+probar|ochutnat, vyzkoušet|[Prueba] esta sopa, está muy rica.|Ochutnej tuto polévku, je moc dobrá.
+probarse|vyzkoušet si (oblečení)|¿Puedo [probarme] estos pantalones?|Můžu si vyzkoušet tyto kalhoty?
+prometer|slíbit|Te [prometo] llegar a tiempo.|Slibuji ti, že přijdu včas.
+quedar|sejít se, zbývat|[Quedamos] a las ocho en la plaza.|Sejdeme se v osm na náměstí.
+quedarse|zůstat|Hoy [me quedo] en casa.|Dnes zůstanu doma.
+quejarse|stěžovat si|Mi vecino [se queja] del ruido.|Můj soused si stěžuje na hluk.
+quitar|odstranit, sundat|[Quita] los platos de la mesa.|Sklid talíře ze stolu.
+quitarse|sundat si|[Me quito] los zapatos en casa.|Doma si sundávám boty.
+recibir|obdržet, dostat|Ayer [recibí] tu carta.|Včera jsem dostal tvůj dopis.
+recoger|sebrat, vyzvednout|[Recojo] a los niños a las cinco.|V pět vyzvedávám děti.
+recomendar|doporučit|Te [recomiendo] este restaurante.|Doporučuji ti tuto restauraci.
+recordar|pamatovat si, připomenout|No [recuerdo] su número.|Nepamatuji si jeho číslo.
+regalar|darovat|Mi novio me [regaló] un reloj.|Můj přítel mi daroval hodinky.
+regar|zalévat|[Riego] las plantas cada dos días.|Zalévám květiny každé dva dny.
+regresar|vrátit se|[Regreso] de Italia el lunes.|Vracím se z Itálie v pondělí.
+reír|smát se|Los niños [ríen] en el parque.|Děti se v parku smějí.
+reparar|opravit|Están [reparando] la calle.|Opravují ulici.
+repetir|opakovat|¿Puede [repetir], por favor?|Můžete to zopakovat, prosím?
+reservar|rezervovat|He [reservado] una mesa para cuatro.|Zarezervoval jsem stůl pro čtyři.
+respirar|dýchat|[Respira] hondo y tranquilízate.|Zhluboka se nadechni a uklidni se.
+reunirse|sejít se|Los jefes [se reúnen] el lunes.|Šéfové se scházejí v pondělí.
+romper|rozbít, zlomit|El niño [rompió] el vaso.|Chlapec rozbil sklenici.
+saludar|pozdravit|Siempre [saludo] a mis vecinos.|Vždy zdravím své sousedy.
+secar|sušit|[Seco] la ropa en el balcón.|Suším prádlo na balkóně.
+seguir|pokračovat, následovat|[Sigue] por esta calle.|Pokračuj touto ulicí.
+sentir|cítit, litovat|[Siento] mucho llegar tarde.|Velmi se omlouvám za pozdní příchod.
+sentirse|cítit se|Hoy [me siento] mucho mejor.|Dnes se cítím mnohem lépe.
+servir|sloužit, podávat|¿Para qué [sirve] este botón?|K čemu slouží toto tlačítko?
+significar|znamenat|¿Qué [significa] esta palabra?|Co znamená toto slovo?
+sonreír|usmívat se|Ella siempre [sonríe] a los clientes.|Ona se na zákazníky vždy usmívá.
+soñar|snít|Anoche [soñé] con el mar.|Včera v noci se mi zdálo o moři.
+subir|vyjít, nastoupit, zvýšit|[Subimos] al tren en Madrid.|V Madridu nastupujeme do vlaku.
+sufrir|trpět|Mi abuelo [sufre] del corazón.|Můj dědeček trpí na srdce.
+tardar|trvat (dlouho), zdržet se|El tren [tarda] tres horas.|Vlak jede tři hodiny.
+tirar|hodit, vyhodit|[Tira] la basura, por favor.|Vynes odpadky, prosím.
+tocar|sáhnout, hrát (na nástroj)|Mi hermano [toca] la guitarra.|Můj bratr hraje na kytaru.
+traducir|překládat|[Traduzco] textos del checo al español.|Překládám texty z češtiny do španělštiny.
+tratar|pojednávat o, zacházet, snažit se|Es un libro que [trata] de la guerra.|Je to kniha, která pojednává o válce.
+utilizar|používat|[Utilizo] el diccionario en clase.|Na hodině používám slovník.
+vestirse|oblékat se|[Me visto] rápido por la mañana.|Ráno se rychle oblékám.
+visitar|navštívit|[Visitamos] el museo ayer.|Včera jsme navštívili muzeum.
+volar|létat|Mañana [volamos] a Tenerife.|Zítra letíme na Tenerife.
+
+# Dům a domácnost
+el edificio|budova|Vivo en un [edificio] antiguo.|Bydlím ve staré budově.
+el ascensor|výtah|El [ascensor] está roto.|Výtah je rozbitý.
+la escalera|schody, žebřík|Subimos por la [escalera].|Jdeme nahoru po schodech.
+el balcón|balkón|Tomamos café en el [balcón].|Pijeme kávu na balkóně.
+la terraza|terasa|Cenamos en la [terraza].|Večeříme na terase.
+el jardín|zahrada|Mi abuelo trabaja en el [jardín].|Můj dědeček pracuje na zahradě.
+el garaje|garáž|El coche está en el [garaje].|Auto je v garáži.
+el pasillo|chodba|El baño está al final del [pasillo].|Koupelna je na konci chodby.
+la pared|zeď, stěna|Hay un cuadro en la [pared].|Na stěně visí obraz.
+el suelo|podlaha, země|El gato duerme en el [suelo].|Kočka spí na podlaze.
+el techo|strop, střecha|La lámpara cuelga del [techo].|Lampa visí ze stropu.
+la luz|světlo|No hay [luz] en esta calle.|V této ulici není světlo.
+la lámpara|lampa|Compré una [lámpara] para el salón.|Koupil jsem lampu do obýváku.
+el armario|skříň|La ropa está en el [armario].|Oblečení je ve skříni.
+la estantería|police, regál|Pon los libros en la [estantería].|Dej knihy do regálu.
+el cuadro|obraz|Este [cuadro] es de mi abuela.|Tento obraz je po mé babičce.
+el espejo|zrcadlo|Hay un [espejo] en el baño.|V koupelně je zrcadlo.
+la alfombra|koberec|La [alfombra] es de lana.|Koberec je vlněný.
+la cortina|záclona, závěs|Cierra la [cortina], por favor.|Zatáhni závěs, prosím.
+el sillón|křeslo|Mi abuelo duerme en el [sillón].|Můj dědeček spí v křesle.
+la nevera|lednička|La leche está en la [nevera].|Mléko je v ledničce.
+el horno|trouba|El pollo está en el [horno].|Kuře je v troubě.
+el microondas|mikrovlnka|Caliento la leche en el [microondas].|Mléko si ohřívám v mikrovlnce.
+la lavadora|pračka|La [lavadora] no funciona.|Pračka nefunguje.
+el lavavajillas|myčka|Pon los platos en el [lavavajillas].|Dej talíře do myčky.
+la ducha|sprcha|La [ducha] está fría.|Sprcha je studená.
+la toalla|ručník|Necesito una [toalla] limpia.|Potřebuji čistý ručník.
+el jabón|mýdlo|No hay [jabón] en el baño.|V koupelně není mýdlo.
+la sábana|prostěradlo|Cambio las [sábanas] cada semana.|Povlečení měním každý týden.
+la almohada|polštář|Esta [almohada] es muy dura.|Tento polštář je velmi tvrdý.
+la manta|deka|Tengo frío, necesito una [manta].|Je mi zima, potřebuji deku.
+la basura|odpadky|Hay [basura] en la calle.|Na ulici jsou odpadky.
+el vecino|soused|Mi [vecino] es muy amable.|Můj soused je velmi milý.
+el barrio|čtvrť|Mi [barrio] es muy tranquilo.|Moje čtvrť je velmi klidná.
+el alquiler|nájem|El [alquiler] es muy caro aquí.|Nájem je tady velmi drahý.
+la dirección|adresa, směr|Dame tu [dirección], por favor.|Dej mi svou adresu, prosím.
+la planta|rostlina, patro|Vivo en la tercera [planta].|Bydlím ve třetím patře.
+
+# Jídlo a restaurace
+el almuerzo|oběd|El [almuerzo] es a las dos.|Oběd je ve dvě.
+el postre|dezert|De [postre] quiero flan.|Jako dezert chci flan.
+el primer plato|první chod|De [primer plato] tomo sopa.|Jako první chod si dám polévku.
+la tapa|tapas, jednohubka|Pedimos una [tapa] de tortilla.|Objednáváme si porci omelety.
+el bocadillo|bageta, sendvič|Me llevo un [bocadillo] al trabajo.|Do práce si beru bagetu.
+la tortilla|omeleta|La [tortilla] española lleva patata.|Španělská omeleta je s bramborami.
+la salsa|omáčka|Esta [salsa] pica mucho.|Tato omáčka je velmi pálivá.
+la mantequilla|máslo|Pon [mantequilla] en el pan.|Namaž si chleba máslem.
+la harina|mouka|Necesito un kilo de [harina].|Potřebuji kilo mouky.
+la pimienta|pepř|Ponle sal y [pimienta].|Přidej sůl a pepř.
+el ajo|česnek|Esta sopa lleva [ajo].|V této polévce je česnek.
+la zanahoria|mrkev|La [zanahoria] es buena para los ojos.|Mrkev je dobrá na oči.
+el pimiento|paprika|Me gusta el [pimiento] rojo.|Chutná mi červená paprika.
+la lechuga|hlávkový salát|Lava bien la [lechuga].|Dobře omyj salát.
+el pepino|okurka|Corta el [pepino] en trozos.|Nakrájej okurku na kousky.
+la fresa|jahoda|Me encanta la [fresa] con nata.|Miluji jahody se šlehačkou.
+la uva|hrozen, víno (ovoce)|En Nochevieja comemos doce [uvas].|Na Silvestra jíme dvanáct hroznů.
+la pera|hruška|Esta [pera] está muy dulce.|Tato hruška je velmi sladká.
+el melocotón|broskev|El [melocotón] está maduro.|Broskev je zralá.
+la sandía|meloun|En verano como [sandía].|V létě jím meloun.
+la cereza|třešeň|Esta [cereza] es muy dulce.|Tato třešeň je velmi sladká.
+el marisco|mořské plody|Me gusta el [marisco] gallego.|Chutnají mi galicijské mořské plody.
+la gamba|kreveta|Pedimos una ración de [gambas].|Objednáváme si porci krevet.
+el atún|tuňák|Pongo [atún] en la ensalada.|Do salátu dávám tuňáka.
+el cerdo|vepřové, prase|No como carne de [cerdo].|Nejím vepřové maso.
+la ternera|telecí, hovězí|Hoy hay filete de [ternera].|Dnes je hovězí řízek.
+el cordero|jehněčí|El [cordero] asado está muy rico.|Pečené jehněčí je velmi dobré.
+la galleta|sušenka|El niño quiere una [galleta].|Chlapec chce sušenku.
+la tarta|dort, koláč|Hice una [tarta] de manzana.|Upekl jsem jablečný koláč.
+el pastel|zákusek, dortík|Este [pastel] es de chocolate.|Tento zákusek je čokoládový.
+el refresco|nealko nápoj, limonáda|Un [refresco] de limón, por favor.|Citronovou limonádu, prosím.
+la propina|spropitné|Dejamos una [propina] al camarero.|Nechali jsme číšníkovi spropitné.
+el vegetariano|vegetarián|Mi hermana es [vegetariana].|Moje sestra je vegetariánka.
+dulce|sladký|Este café está muy [dulce].|Tato káva je velmi sladká.
+salado|slaný|La sopa está muy [salada].|Polévka je velmi slaná.
+picante|pálivý|No me gusta la comida [picante].|Nemám rád pálivé jídlo.
+fresco|čerstvý, chladný|El pescado está muy [fresco].|Ryba je velmi čerstvá.
+maduro|zralý|Este plátano no está [maduro].|Tento banán není zralý.
+delicioso|lahodný|Este plato está [delicioso].|Tento pokrm je lahodný.
+sano|zdravý|Comer fruta es muy [sano].|Jíst ovoce je velmi zdravé.
+tener hambre|mít hlad|Los niños [tienen hambre].|Děti mají hlad.
+tener sed|mít žízeň|¿[Tienes sed]?|Máš žízeň?
+
+# Nakupování a peníze
+la tarjeta|karta|Pago con [tarjeta].|Platím kartou.
+la cartera|peněženka|He perdido la [cartera].|Ztratil jsem peněženku.
+el precio|cena|El [precio] me parece bien.|Cena se mi zdá v pořádku.
+la oferta|nabídka, akce|Hoy los zapatos están en [oferta].|Dnes jsou boty v akci.
+las rebajas|slevy, výprodej|Compré el abrigo en las [rebajas].|Kabát jsem koupil ve výprodeji.
+la talla|velikost (oblečení)|¿Tiene una [talla] más grande?|Máte větší velikost?
+el probador|zkušební kabinka|El [probador] está al fondo.|Zkušební kabinka je vzadu.
+la caja|pokladna, krabice|Pague en la [caja], por favor.|Zaplaťte u pokladny, prosím.
+el cliente|zákazník|El [cliente] quiere hablar con usted.|Zákazník s vámi chce mluvit.
+el dependiente|prodavač|El [dependiente] es muy amable.|Prodavač je velmi milý.
+la bolsa|taška, sáček|¿Quiere una [bolsa]?|Chcete tašku?
+la panadería|pekařství|Compro pan en la [panadería].|Chleba kupuji v pekařství.
+la carnicería|řeznictví|La [carnicería] cierra a las dos.|Řeznictví zavírá ve dvě.
+la frutería|ovoce a zelenina (obchod)|Voy a la [frutería] de la esquina.|Jdu do obchodu s ovocem na rohu.
+la librería|knihkupectví|Compré este libro en una [librería].|Tuto knihu jsem koupil v knihkupectví.
+la zapatería|obuvnictví|Hay una [zapatería] nueva en mi calle.|V mé ulici je nové obuvnictví.
+la peluquería|kadeřnictví|Voy a la [peluquería] el viernes.|V pátek jdu ke kadeřníkovi.
+el centro comercial|nákupní centrum|Vamos al [centro comercial] el sábado.|V sobotu jedeme do nákupního centra.
+el regalo|dárek|Este [regalo] es para mi madre.|Tento dárek je pro mou matku.
+el kilo|kilogram|Deme un [kilo] de tomates.|Dejte mi kilo rajčat.
+el litro|litr|Compro un [litro] de leche.|Kupuji litr mléka.
+la moneda|mince, měna|No tengo ninguna [moneda] para el café.|Nemám žádnou minci na kávu.
+el cajero|bankomat, pokladní|Hay un [cajero] automático en la esquina.|Na rohu je bankomat.
+el céntimo|cent|No tengo ni un [céntimo].|Nemám ani cent.
+
+# Oblečení a vzhled
+la chaqueta|bunda, sako|Esta [chaqueta] es de cuero.|Tato bunda je kožená.
+los vaqueros|džíny|Llevo [vaqueros] todos los días.|Každý den nosím džíny.
+la bufanda|šála|Hace frío, ponte la [bufanda].|Je zima, vezmi si šálu.
+los guantes|rukavice|Necesito [guantes] para la nieve.|Potřebuji rukavice do sněhu.
+el gorro|čepice|El niño lleva un [gorro] azul.|Chlapec má modrou čepici.
+el sombrero|klobouk|Mi abuelo lleva [sombrero] en verano.|Můj dědeček nosí v létě klobouk.
+los calcetines|ponožky|Estos [calcetines] tienen un agujero.|Tyto ponožky mají díru.
+el cinturón|pásek|Necesito un [cinturón] nuevo.|Potřebuji nový pásek.
+la corbata|kravata|Mi jefe siempre lleva [corbata].|Můj šéf vždy nosí kravatu.
+las botas|vysoké boty, pohorky|Para la montaña necesito [botas].|Na hory potřebuji pohorky.
+el bañador|plavky|No olvides el [bañador].|Nezapomeň plavky.
+el paraguas|deštník|Coge el [paraguas], va a llover.|Vezmi si deštník, bude pršet.
+el anillo|prsten|Mi novio me regaló un [anillo].|Můj přítel mi daroval prsten.
+los pendientes|náušnice|Estos [pendientes] son de plata.|Tyto náušnice jsou stříbrné.
+el algodón|bavlna|Esta camisa es de [algodón].|Tato košile je z bavlny.
+la lana|vlna|Este gorro es de [lana].|Tato čepice je vlněná.
+el cuero|kůže (materiál)|Quiero un bolso de [cuero].|Chci koženou kabelku.
+rubio|blond|Mi hija tiene el pelo [rubio].|Moje dcera má blond vlasy.
+moreno|tmavovlasý, snědý|Mi hermano es [moreno].|Můj bratr je tmavovlasý.
+pelirrojo|zrzavý|Su novia es [pelirroja].|Jeho přítelkyně je zrzka.
+calvo|plešatý|Mi abuelo está [calvo].|Můj dědeček je plešatý.
+la barba|vousy|Mi padre lleva [barba].|Můj otec nosí vousy.
+el bigote|knír|Mi abuelo tiene [bigote].|Můj dědeček má knír.
+
+# Doprava a cestování
+el viaje|cesta, výlet|¡Buen [viaje]!|Šťastnou cestu!
+el viajero|cestovatel, cestující|El [viajero] busca su maleta.|Cestující hledá svůj kufr.
+el turista|turista|Un [turista] me pregunta dónde está el museo.|Jeden turista se mě ptá, kde je muzeum.
+la parada|zastávka|La [parada] está cerca de mi casa.|Zastávka je blízko mého domu.
+el andén|nástupiště|El tren sale del [andén] cuatro.|Vlak odjíždí z nástupiště čtyři.
+la vía|kolej|El tren está en la [vía] dos.|Vlak je na druhé koleji.
+el asiento|sedadlo|Este [asiento] está libre.|Toto sedadlo je volné.
+el vuelo|let|Mi [vuelo] sale a las seis.|Můj let odlétá v šest.
+el equipaje|zavazadla|Mi [equipaje] no ha llegado.|Moje zavazadla nedorazila.
+la reserva|rezervace|Tengo una [reserva] a nombre de Pérez.|Mám rezervaci na jméno Pérez.
+la recepción|recepce|Deja la llave en [recepción].|Nech klíč na recepci.
+el camping|kemp|Dormimos en un [camping] cerca del mar.|Spíme v kempu blízko moře.
+la excursión|výlet|Mañana hacemos una [excursión] a Segovia.|Zítra jedeme na výlet do Segovie.
+la gasolina|benzin|Este coche gasta mucha [gasolina].|Toto auto spotřebuje hodně benzinu.
+la gasolinera|benzinka|Paramos en la [gasolinera].|Zastavujeme na benzince.
+la carretera|silnice|La [carretera] está cortada.|Silnice je uzavřená.
+la autopista|dálnice|Vamos a Valencia por la [autopista].|Jedeme do Valencie po dálnici.
+el semáforo|semafor|Gira en el [semáforo].|Zatoč u semaforu.
+el puente|most|Cruzamos el [puente] a pie.|Přejdeme most pěšky.
+la esquina|roh|Espérame en la [esquina].|Počkej na mě na rohu.
+la moto|motorka|Mi hermano tiene una [moto].|Můj bratr má motorku.
+el camión|nákladní auto|Un [camión] está parado en la calle.|Na ulici stojí nákladní auto.
+la rueda|kolo (vozidla)|El coche tiene una [rueda] pinchada.|Auto má píchlé kolo.
+el aparcamiento|parkoviště|El [aparcamiento] está lleno.|Parkoviště je plné.
+el puerto|přístav|El barco llega al [puerto].|Loď připlouvá do přístavu.
+la isla|ostrov|Mallorca es una [isla] muy bonita.|Mallorca je velmi krásný ostrov.
+la costa|pobřeží|Vivimos en la [costa].|Bydlíme na pobřeží.
+el lago|jezero|Nadamos en el [lago].|Plaveme v jezeře.
+el bosque|les|Paseamos por el [bosque].|Procházíme se lesem.
+el campo|venkov, pole, hřiště|Mis abuelos viven en el [campo].|Moji prarodiče žijí na venkově.
+el norte|sever|Bilbao está en el [norte] de España.|Bilbao je na severu Španělska.
+el sur|jih|Sevilla está en el [sur] de España.|Sevilla je na jihu Španělska.
+el este|východ|Valencia está en el [este] de España.|Valencie je na východě Španělska.
+el oeste|západ|Portugal está al [oeste] de España.|Portugalsko leží na západ od Španělska.
+el extranjero|cizina, cizinec|Mi hermano trabaja en el [extranjero].|Můj bratr pracuje v cizině.
+extranjero|zahraniční, cizí|Aquí hay muchos estudiantes [extranjeros].|Je tu hodně zahraničních studentů.
+la frontera|hranice|Cruzamos la [frontera] por la noche.|Přejíždíme hranici v noci.
+la capital|hlavní město|Madrid es la [capital] de España.|Madrid je hlavní město Španělska.
+la catedral|katedrála|La [catedral] de Sevilla es enorme.|Katedrála v Seville je obrovská.
+el castillo|hrad, zámek|Visitamos un [castillo] medieval.|Navštívili jsme středověký hrad.
+el monumento|památka|Este [monumento] es muy famoso.|Tato památka je velmi slavná.
+la entrada|vchod, vstupenka|Compré una [entrada] para el museo.|Koupil jsem si vstupenku do muzea.
+la salida|východ, odjezd|¿Dónde está la [salida]?|Kde je východ?
+el recuerdo|vzpomínka, suvenýr|Compro un [recuerdo] para mi madre.|Kupuji suvenýr pro maminku.
+
+# Tělo, zdraví a pocity
+el dolor|bolest|Tengo [dolor] de cabeza.|Bolí mě hlava.
+la fiebre|horečka|El niño tiene [fiebre].|Chlapec má horečku.
+el resfriado|nachlazení|Tengo un [resfriado] muy fuerte.|Mám silné nachlazení.
+la gripe|chřipka|Mi madre tiene [gripe].|Moje matka má chřipku.
+la tos|kašel|Tengo [tos] desde el lunes.|Mám kašel od pondělí.
+la pastilla|tableta, prášek|Tomo una [pastilla] por la noche.|Večer si beru tabletu.
+la medicina|lék, medicína|Esta [medicina] es muy buena.|Tento lék je velmi dobrý.
+la receta|recept|El médico me dio una [receta].|Lékař mi dal recept.
+la cita|schůzka, objednání|Tengo [cita] con el dentista.|Jsem objednaný u zubaře.
+el dentista|zubař|Voy al [dentista] el martes.|V úterý jdu k zubaři.
+la enfermera|zdravotní sestra|La [enfermera] es muy simpática.|Zdravotní sestra je velmi milá.
+la ambulancia|sanitka|Llamamos a una [ambulancia].|Voláme sanitku.
+el accidente|nehoda|Vi un [accidente] en la autopista.|Viděl jsem nehodu na dálnici.
+el corazón|srdce|Mi abuelo tiene un problema de [corazón].|Můj dědeček má problém se srdcem.
+el estómago|žaludek|Me duele el [estómago].|Bolí mě žaludek.
+la espalda|záda|Me duele la [espalda].|Bolí mě záda.
+el cuello|krk (část těla)|Tengo dolor de [cuello].|Bolí mě krk.
+la garganta|hrdlo|Me duele la [garganta].|Bolí mě v krku.
+el hombro|rameno|Me duele el [hombro] izquierdo.|Bolí mě levé rameno.
+el dedo|prst|Me corté un [dedo].|Řízl jsem se do prstu.
+la rodilla|koleno|Me hice daño en la [rodilla].|Poranil jsem si koleno.
+la cara|obličej, tvář|Tiene la [cara] roja.|Má červený obličej.
+la piel|kůže|Tiene la [piel] muy blanca.|Má velmi bílou kůži.
+el miedo|strach|Tengo [miedo] de los perros.|Bojím se psů.
+la alegría|radost|¡Qué [alegría] verte!|To je radost tě vidět!
+la tristeza|smutek|Siento mucha [tristeza].|Cítím velký smutek.
+el amor|láska|El [amor] es lo más importante.|Láska je to nejdůležitější.
+la vergüenza|stud|Me da [vergüenza] hablar en público.|Stydím se mluvit na veřejnosti.
+nervioso|nervózní|Estoy [nervioso] antes del examen.|Před zkouškou jsem nervózní.
+preocupado|ustaraný|Mi madre está muy [preocupada].|Moje matka má velké starosti.
+enfadado|rozzlobený|Mi jefe está [enfadado].|Můj šéf je rozzlobený.
+sorprendido|překvapený|Estoy muy [sorprendido].|Jsem velmi překvapený.
+aburrido|nudný, znuděný|Esta película es muy [aburrida].|Tento film je velmi nudný.
+divertido|zábavný|Es un juego muy [divertido].|Je to velmi zábavná hra.
+tímido|plachý|Mi hijo es muy [tímido].|Můj syn je velmi plachý.
+amable|laskavý, milý|El médico es muy [amable].|Lékař je velmi laskavý.
+listo|chytrý, hotový|Mi hija es muy [lista].|Moje dcera je velmi chytrá.
+tonto|hloupý|No seas [tonto].|Nebuď hloupý.
+perezoso|líný|Mi hermano es muy [perezoso].|Můj bratr je velmi líný.
+trabajador|pracovitý|Tu hija es muy [trabajadora].|Tvoje dcera je velmi pracovitá.
+educado|slušný, vychovaný|Tus hijos son muy [educados].|Tvoje děti jsou velmi slušné.
+fuerte|silný|Mi hermano es muy [fuerte].|Můj bratr je velmi silný.
+débil|slabý|Hoy me siento [débil].|Dnes se cítím slabý.
+valiente|statečný|Eres una mujer muy [valiente].|Jsi velmi statečná žena.
+
+# Práce, škola a volný čas
+la empresa|firma|Trabajo en una [empresa] alemana.|Pracuji v německé firmě.
+el jefe|šéf|Mi [jefe] está de vacaciones.|Můj šéf je na dovolené.
+el compañero|kolega, spolužák|Mi [compañero] de trabajo es de Cuba.|Můj kolega je z Kuby.
+la reunión|schůze|Tengo una [reunión] a las diez.|V deset mám schůzi.
+el sueldo|plat|Mi [sueldo] es bajo.|Můj plat je nízký.
+el horario|rozvrh, otevírací doba|¿Cuál es el [horario] del banco?|Jaká je otevírací doba banky?
+el descanso|přestávka, odpočinek|Tenemos un [descanso] de quince minutos.|Máme patnáctiminutovou přestávku.
+la profesión|povolání|¿Cuál es tu [profesión]?|Jaké je tvoje povolání?
+el abogado|právník|Mi tío es [abogado].|Můj strýc je právník.
+el ingeniero|inženýr|Mi marido es [ingeniero].|Můj manžel je inženýr.
+el periodista|novinář|El [periodista] hace muchas preguntas.|Novinář klade hodně otázek.
+el cocinero|kuchař|El [cocinero] prepara la paella.|Kuchař připravuje paellu.
+el peluquero|kadeřník|Mi [peluquero] se llama Javier.|Můj kadeřník se jmenuje Javier.
+el cartero|pošťák|El [cartero] viene por la mañana.|Pošťák chodí ráno.
+el secretario|tajemník, sekretář|El [secretario] contesta el teléfono.|Sekretář bere telefon.
+el mecánico|automechanik|El [mecánico] arregla mi coche.|Mechanik opravuje moje auto.
+el bombero|hasič|Mi hijo quiere ser [bombero].|Můj syn chce být hasičem.
+el agricultor|zemědělec|Mi abuelo era [agricultor].|Můj dědeček byl zemědělec.
+el actor|herec|Este [actor] es muy famoso.|Tento herec je velmi slavný.
+el cantante|zpěvák|Este [cantante] es de Colombia.|Tento zpěvák je z Kolumbie.
+el escritor|spisovatel|Cervantes es un [escritor] muy famoso.|Cervantes je velmi slavný spisovatel.
+el pintor|malíř|Goya fue un [pintor] español.|Goya byl španělský malíř.
+el músico|hudebník|Mi tío es [músico].|Můj strýc je hudebník.
+el cuaderno|sešit|Escribo en mi [cuaderno].|Píšu si do sešitu.
+el diccionario|slovník|Busca la palabra en el [diccionario].|Najdi to slovo ve slovníku.
+el ejercicio|cvičení|Este [ejercicio] es muy fácil.|Toto cvičení je velmi snadné.
+los deberes|domácí úkoly|Mi hijo hace los [deberes] por la tarde.|Můj syn si odpoledne dělá úkoly.
+la nota|známka, poznámka|Saqué una buena [nota] en el examen.|Ze zkoušky jsem dostal dobrou známku.
+la asignatura|vyučovací předmět|Mi [asignatura] favorita es historia.|Můj oblíbený předmět je dějepis.
+las matemáticas|matematika|Las [matemáticas] son difíciles.|Matematika je těžká.
+la historia|dějiny, příběh|Me gusta la [historia] de España.|Baví mě dějiny Španělska.
+la biblioteca|knihovna|Estudio en la [biblioteca].|Učím se v knihovně.
+el colegio|základní škola|Mis hijos van al mismo [colegio].|Moje děti chodí do stejné školy.
+el instituto|střední škola|Mi hija estudia en el [instituto].|Moje dcera chodí na střední školu.
+el curso|kurz, školní rok|Hago un [curso] de cocina.|Chodím na kurz vaření.
+la música|hudba|Me gusta la [música] latina.|Mám rád latinskoamerickou hudbu.
+la canción|píseň|Esta [canción] es muy bonita.|Tato píseň je velmi krásná.
+el concierto|koncert|Vamos a un [concierto] de flamenco.|Jdeme na koncert flamenca.
+la guitarra|kytara|Aprendo a tocar la [guitarra].|Učím se hrát na kytaru.
+el piano|klavír|Mi hija toca el [piano].|Moje dcera hraje na klavír.
+el baile|tanec|El flamenco es un [baile] español.|Flamenco je španělský tanec.
+el cine|kino|El viernes vamos al [cine].|V pátek jdeme do kina.
+la película|film|Esta [película] es muy larga.|Tento film je velmi dlouhý.
+el teatro|divadlo|Hoy vamos al [teatro].|Dnes jdeme do divadla.
+la obra|dílo, hra|Vimos una [obra] de Lorca.|Viděli jsme hru od Lorcy.
+la exposición|výstava|Hay una [exposición] de Picasso en el museo.|V muzeu je výstava Picassa.
+la novela|román|Estoy leyendo una [novela] policíaca.|Čtu detektivní román.
+la revista|časopis|Compro esta [revista] cada mes.|Každý měsíc si kupuji tento časopis.
+el periódico|noviny|Mi padre lee el [periódico] por la mañana.|Můj otec ráno čte noviny.
+la noticia|zpráva, novinka|Tengo una buena [noticia].|Mám dobrou zprávu.
+la radio|rádio|Escucho la [radio] en el coche.|V autě poslouchám rádio.
+el programa|pořad, program|Este [programa] es muy divertido.|Tento pořad je velmi zábavný.
+el juego|hra|Este [juego] es para niños.|Tato hra je pro děti.
+el deporte|sport|¿Qué [deporte] practicas?|Jaký sport děláš?
+el fútbol|fotbal|Me gusta ver el [fútbol].|Rád se dívám na fotbal.
+el baloncesto|basketbal|Juego al [baloncesto] los jueves.|Ve čtvrtek hraju basketbal.
+el tenis|tenis|Rafa Nadal juega al [tenis].|Rafa Nadal hraje tenis.
+la natación|plavání|La [natación] es buena para la espalda.|Plavání je dobré na záda.
+el esquí|lyžování|Me gusta mucho el [esquí].|Mám moc rád lyžování.
+el gimnasio|posilovna|Voy al [gimnasio] tres veces por semana.|Do posilovny chodím třikrát týdně.
+el partido|zápas|El [partido] empieza a las nueve.|Zápas začíná v devět.
+el equipo|tým|Mi [equipo] ganó ayer.|Můj tým včera vyhrál.
+el jugador|hráč|Es el mejor [jugador] del equipo.|Je to nejlepší hráč týmu.
+la pelota|míč|Los niños juegan con la [pelota].|Děti si hrají s míčem.
+la fiesta|večírek, svátek|Hoy hay una [fiesta] en mi casa.|Dnes je u mě doma večírek.
+la Navidad|Vánoce|En [Navidad] comemos en familia.|O Vánocích jíme s rodinou.
+la boda|svatba|La [boda] es en mayo.|Svatba je v květnu.
+el hobby|koníček|Mi [hobby] es la fotografía.|Můj koníček je fotografování.
+
+# Technika a komunikace
+internet|internet|Busco información en [internet].|Hledám informace na internetu.
+el correo|pošta, e-mail|Te escribo por [correo] electrónico.|Napíšu ti e-mailem.
+el mensaje|zpráva|Te mandé un [mensaje] ayer.|Včera jsem ti poslal zprávu.
+la carta|dopis, jídelní lístek|Escribo una [carta] a mi abuela.|Píšu dopis babičce.
+el sobre|obálka|Pon la carta en este [sobre].|Dej dopis do této obálky.
+el sello|známka (poštovní)|Necesito un [sello] para esta carta.|Potřebuji známku na tento dopis.
+el buzón|poštovní schránka|Hay una carta en el [buzón].|Ve schránce je dopis.
+la contraseña|heslo|He olvidado mi [contraseña].|Zapomněl jsem heslo.
+la pantalla|obrazovka|La [pantalla] de mi móvil está rota.|Displej mého mobilu je rozbitý.
+el cargador|nabíječka|¿Tienes un [cargador] para el móvil?|Máš nabíječku na mobil?
+la cámara|fotoaparát, kamera|Compré una [cámara] nueva.|Koupil jsem si nový fotoaparát.
+la aplicación|aplikace|Uso una [aplicación] para aprender español.|Používám aplikaci na učení španělštiny.
+la página|stránka|Lee la [página] diez.|Přečti si desátou stránku.
+la llamada|hovor|Tengo una [llamada] perdida.|Mám zmeškaný hovor.
+la información|informace|Necesito más [información].|Potřebuji víc informací.
+
+# Příroda a počasí
+la temperatura|teplota|La [temperatura] baja por la noche.|Teplota v noci klesá.
+la nube|mrak|Hoy hay una [nube] muy negra.|Dnes je tu velmi černý mrak.
+la tormenta|bouřka|Anoche hubo una [tormenta].|V noci byla bouřka.
+el hielo|led|Pon [hielo] en la bebida.|Dej si do nápoje led.
+la niebla|mlha|Hay [niebla] en la carretera.|Na silnici je mlha.
+el cielo|nebe|El [cielo] está muy azul.|Nebe je velmi modré.
+la luna|měsíc (na obloze)|Esta noche hay [luna] llena.|Dnes v noci je úplněk.
+la estrella|hvězda|Veo una [estrella] en el cielo.|Vidím na nebi hvězdu.
+la tierra|země, půda|La [tierra] aquí es muy seca.|Půda je tady velmi suchá.
+la piedra|kámen|El niño tira una [piedra] al río.|Chlapec hází kámen do řeky.
+la arena|písek|La [arena] de esta playa es blanca.|Písek na této pláži je bílý.
+la ola|vlna (mořská)|Hoy la [ola] es muy alta.|Vlna je dnes velmi vysoká.
+el animal|zvíře|Mi [animal] favorito es el caballo.|Moje oblíbené zvíře je kůň.
+la vaca|kráva|La [vaca] come hierba.|Kráva žere trávu.
+la oveja|ovce|Mi abuelo tiene una [oveja].|Můj dědeček má ovci.
+la gallina|slepice|La [gallina] pone huevos.|Slepice snáší vejce.
+el conejo|králík|Mi hija tiene un [conejo] blanco.|Moje dcera má bílého králíka.
+el ratón|myš|Hay un [ratón] en la cocina.|V kuchyni je myš.
+el oso|medvěd|En Asturias vive el [oso] pardo.|V Asturii žije medvěd hnědý.
+el mono|opice|El [mono] come un plátano.|Opice jí banán.
+el toro|býk|El [toro] es un símbolo de España.|Býk je symbolem Španělska.
+el insecto|hmyz|Hay un [insecto] en mi sopa.|V polévce mám hmyz.
+la hierba|tráva|La [hierba] está muy verde.|Tráva je velmi zelená.
+la hoja|list|Una [hoja] cae del árbol.|Ze stromu padá list.
+seco|suchý|El clima aquí es muy [seco].|Podnebí je tady velmi suché.
+mojado|mokrý|Mi abrigo está [mojado].|Můj kabát je mokrý.
+nublado|zatažený|Hoy está [nublado].|Dnes je zataženo.
+oscuro|tmavý|La habitación está muy [oscura].|Pokoj je velmi tmavý.
+claro|světlý, jasný|Quiero una camisa azul [claro].|Chci světle modrou košili.
+
+# Vlastnosti a popis
+antiguo|starý, starobylý|Toledo es una ciudad muy [antigua].|Toledo je velmi staré město.
+moderno|moderní|Este edificio es muy [moderno].|Tato budova je velmi moderní.
+famoso|slavný|Es un cantante muy [famoso].|Je to velmi slavný zpěvák.
+rápido|rychlý|Este tren es muy [rápido].|Tento vlak je velmi rychlý.
+lento|pomalý|Internet está muy [lento] hoy.|Internet je dnes velmi pomalý.
+pesado|těžký, otravný|Esta maleta es muy [pesada].|Tento kufr je velmi těžký.
+ligero|lehký|Este abrigo es muy [ligero].|Tento kabát je velmi lehký.
+duro|tvrdý|Este pan está muy [duro].|Tento chleba je velmi tvrdý.
+blando|měkký|Esta cama es muy [blanda].|Tato postel je velmi měkká.
+ancho|široký|Esta calle es muy [ancha].|Tato ulice je velmi široká.
+estrecho|úzký|El pasillo es muy [estrecho].|Chodba je velmi úzká.
+redondo|kulatý|Tenemos una mesa [redonda].|Máme kulatý stůl.
+pobre|chudý|Es un barrio muy [pobre].|Je to velmi chudá čtvrť.
+libre|volný|¿Tienes tiempo [libre] hoy?|Máš dnes volný čas?
+ocupado|obsazený, zaneprázdněný|Hoy estoy muy [ocupado].|Dnes jsem velmi zaneprázdněný.
+roto|rozbitý|Mi móvil está [roto].|Můj mobil je rozbitý.
+correcto|správný|Tu respuesta es [correcta].|Tvoje odpověď je správná.
+falso|nepravdivý, falešný|Este billete es [falso].|Tato bankovka je falešná.
+seguro|jistý, bezpečný|No estoy [seguro] de la hora.|Nejsem si jistý časem.
+peligroso|nebezpečný|Este barrio es [peligroso] de noche.|Tato čtvrť je v noci nebezpečná.
+ruidoso|hlučný|Mi calle es muy [ruidosa].|Moje ulice je velmi hlučná.
+diferente|odlišný|Este plato es muy [diferente].|Tento pokrm je velmi odlišný.
+igual|stejný|Mi coche es [igual] que el tuyo.|Moje auto je stejné jako tvoje.
+mismo|stejný, tentýž|Vivimos en el [mismo] edificio.|Bydlíme ve stejné budově.
+otro|jiný, další|Quiero [otro] café.|Chci další kávu.
+cada|každý|Voy al gimnasio [cada] día.|Chodím do posilovny každý den.
+varios|několik, různí|Tengo [varios] amigos en Madrid.|V Madridu mám několik přátel.
+próximo|příští, nejbližší|El [próximo] tren sale a las tres.|Příští vlak odjíždí ve tři.
+último|poslední|Es el [último] autobús de hoy.|Je to dnešní poslední autobus.
+pasado|minulý|El año [pasado] fui a Perú.|Loni jsem byl v Peru.
+siguiente|následující|Al día [siguiente] volvimos a casa.|Následující den jsme se vrátili domů.
+perfecto|dokonalý|Este hotel es [perfecto].|Tento hotel je dokonalý.
+típico|typický|La paella es un plato [típico].|Paella je typický pokrm.
+necesario|nutný, potřebný|Es [necesario] llevar pasaporte.|Je nutné mít pas.
+posible|možný|No es [posible] aparcar aquí.|Tady není možné parkovat.
+imposible|nemožný|Es [imposible] dormir con este ruido.|S tímto hlukem nejde spát.
+normal|normální|Es [normal] cenar tarde en España.|Ve Španělsku je normální večeřet pozdě.
+raro|divný, vzácný|Este plato tiene un sabor [raro].|Tento pokrm má divnou chuť.
+gratis|zdarma|La entrada es [gratis].|Vstup je zdarma.
+
+# Příslovce a spojky
+además|navíc, kromě toho|[Además], el hotel está cerca del mar.|Navíc je hotel blízko moře.
+ya|už|[Ya] he comido.|Už jsem jedl.
+todavía|ještě, stále|[Todavía] no he terminado.|Ještě jsem neskončil.
+aún|ještě|[Aún] no ha llegado el tren.|Vlak ještě nepřijel.
+pronto|brzy|Te escribo [pronto].|Brzy ti napíšu.
+luego|potom|[Luego] te llamo.|Potom ti zavolám.
+entonces|tehdy, tedy|[Entonces] nos vemos mañana.|Tak se uvidíme zítra.
+anoche|včera v noci|[Anoche] dormí muy mal.|Včera v noci jsem spal velmi špatně.
+anteayer|předevčírem|[Anteayer] fui al médico.|Předevčírem jsem byl u lékaře.
+normalmente|obvykle|[Normalmente] me levanto a las siete.|Obvykle vstávám v sedm.
+casi|skoro, téměř|Son [casi] las diez.|Je skoro deset.
+quizás|možná|[Quizás] venga mañana.|Možná přijde zítra.
+solo|jen, sám|Tengo [solo] diez euros.|Mám jen deset eur.
+sobre todo|především|Me gusta la fruta, [sobre todo] las fresas.|Mám rád ovoce, především jahody.
+por ejemplo|například|Me gusta el pescado, [por ejemplo] el atún.|Mám rád ryby, například tuňáka.
+por eso|proto|Estoy cansado, [por eso] me quedo en casa.|Jsem unavený, proto zůstanu doma.
+sin embargo|avšak, nicméně|Hace frío; [sin embargo], vamos a salir.|Je zima, přesto půjdeme ven.
+aunque|i když|Salgo [aunque] llueva.|Půjdu ven, i kdyby pršelo.
+cuando|když|Te llamo [cuando] llegue.|Zavolám ti, až dorazím.
+mientras|zatímco|Escucho música [mientras] cocino.|Poslouchám hudbu, zatímco vařím.
+si|jestli, když|Te ayudo [si] quieres.|Pomůžu ti, jestli chceš.
+como|jako, protože|Mi hijo es alto [como] su padre.|Můj syn je vysoký jako jeho otec.
+hacia|směrem k|Caminamos [hacia] el río.|Jdeme směrem k řece.
+hasta|až do|Trabajo [hasta] las cinco.|Pracuji do pěti.
+desde|od|Vivo aquí [desde] 2020.|Bydlím tady od roku 2020.
+durante|během|Dormí [durante] el viaje.|Během cesty jsem spal.
+contra|proti|España juega [contra] Italia.|Španělsko hraje proti Itálii.
+según|podle|[Según] el mapa, estamos cerca.|Podle mapy jsme blízko.
+excepto|kromě|Abrimos todos los días [excepto] el lunes.|Máme otevřeno každý den kromě pondělí.
+fuera|venku|Los niños juegan [fuera].|Děti si hrají venku.
+dentro|uvnitř|Hay mucha gente [dentro] del bar.|V baru je hodně lidí.
+arriba|nahoře|Mi habitación está [arriba].|Můj pokoj je nahoře.
+abajo|dole|El garaje está [abajo].|Garáž je dole.
+enfrente|naproti|El banco está [enfrente] de la iglesia.|Banka je naproti kostelu.
+alrededor|kolem|Hay árboles [alrededor] de la casa.|Kolem domu jsou stromy.
+demasiado|příliš|Este café está [demasiado] caliente.|Tato káva je příliš horká.
+bastante|docela, dost|Hablas [bastante] bien.|Mluvíš docela dobře.
+tanto|tolik|No comas [tanto].|Nejez tolik.
+suficiente|dostatek, dost|No tengo [suficiente] dinero.|Nemám dost peněz.
+ninguno|žádný|No tengo [ningún] problema.|Nemám žádný problém.
+alguno|nějaký|¿Tienes [algún] libro en español?|Máš nějakou knihu ve španělštině?
+mío|můj|Este abrigo es [mío].|Tento kabát je můj.
+tuyo|tvůj|¿Este libro es [tuyo]?|Je tato kniha tvoje?
+suyo|jeho, její|El coche es [suyo].|To auto je jeho.
+aquel|tamten|[Aquel] edificio es muy alto.|Tamta budova je velmi vysoká.
+tal vez|možná|[Tal vez] voy a la fiesta.|Možná půjdu na večírek.
+claro que sí|jasně, samozřejmě|[Claro que sí], te ayudo.|Samozřejmě, pomůžu ti.
+de acuerdo|souhlasím, dobře|[De acuerdo], nos vemos a las diez.|Dobře, uvidíme se v deset.
+vale|dobře, platí|[Vale], te espero aquí.|Dobře, počkám tady na tebe.

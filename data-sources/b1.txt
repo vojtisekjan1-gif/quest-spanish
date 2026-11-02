@@ -1,0 +1,485 @@
+# Úroveň B1. Formát: španělsky|česky|věta s [tvarem slova]|překlad věty
+
+# Slovesa
+aburrirse|nudit se|Siempre [me aburro] en las reuniones largas.|V dlouhých schůzích se vždycky nudím.
+aconsejar|radit|Mi madre me [aconseja] estudiar más.|Maminka mi radí, abych se víc učil.
+acercarse|přiblížit se|No [te acerques] al borde del río.|Nepřibližuj se k okraji řeky.
+acostumbrarse|zvyknout si|Todavía no [me acostumbro] al calor.|Na to horko si pořád nemůžu zvyknout.
+aguantar|snést, vydržet|No [aguanto] más este ruido.|Ten hluk už nevydržím.
+ahorrar|šetřit|[Ahorro] dinero para las vacaciones.|Šetřím peníze na dovolenou.
+alegrarse|radovat se|[Me alegro] mucho de verte.|Moc mě těší, že tě vidím.
+amar|milovat|Ella [ama] a su familia sobre todo.|Svou rodinu miluje nade vše.
+animar|povzbudit|Mis amigos me [animaron] a participar.|Kamarádi mě povzbudili, abych se zúčastnil.
+aprovechar|využít|Hay que [aprovechar] el buen tiempo.|Je třeba využít pěkné počasí.
+arrepentirse|litovat|Nunca [me arrepiento] de mis decisiones.|Svých rozhodnutí nikdy nelituji.
+asistir|účastnit se|Ayer [asistí] a una conferencia interesante.|Včera jsem byl na zajímavé konferenci.
+atender|obsloužit, věnovat se|El camarero [atiende] a los clientes.|Číšník obsluhuje zákazníky.
+atreverse|odvážit se|No [me atrevo] a decírselo.|Neodvažuji se mu to říct.
+averiguar|zjistit|Voy a [averiguar] qué pasó.|Zjistím, co se stalo.
+avisar|upozornit, dát vědět|[Avísame] cuando llegues a casa.|Dej mi vědět, až dorazíš domů.
+besar|políbit|Ella [besó] a su hijo en la frente.|Políbila syna na čelo.
+caber|vejít se|Esta maleta no [cabe] en el coche.|Tento kufr se do auta nevejde.
+castigar|trestat|Los padres no quieren [castigar] al niño.|Rodiče nechtějí dítě trestat.
+colaborar|spolupracovat|Varias empresas [colaboran] en este proyecto.|Na tomto projektu spolupracuje několik firem.
+compensar|vynahradit, vyplatit se|Este trabajo no me [compensa].|Tato práce se mi nevyplatí.
+competir|soutěžit|Nuestro equipo [compite] en la liga nacional.|Náš tým soutěží v národní lize.
+comprobar|ověřit, zkontrolovat|[Comprueba] si la puerta está cerrada.|Zkontroluj, jestli jsou dveře zavřené.
+comunicar|sdělit, komunikovat|Tengo que [comunicar] una mala noticia.|Musím sdělit špatnou zprávu.
+concentrarse|soustředit se|Es difícil [concentrarse] con tanto ruido.|Je těžké se soustředit při takovém hluku.
+confiar|důvěřovat|[Confío] en mis compañeros de trabajo.|Důvěřuji svým kolegům v práci.
+confirmar|potvrdit|Quiero [confirmar] mi reserva para mañana.|Chci potvrdit svou rezervaci na zítra.
+construir|stavět|Van a [construir] un hospital nuevo.|Postaví novou nemocnici.
+consultar|konzultovat, nahlédnout|Voy a [consultar] el mapa.|Podívám se do mapy.
+contener|obsahovat|Esta caja [contiene] libros antiguos.|Tato krabice obsahuje staré knihy.
+contribuir|přispět|Todos podemos [contribuir] a cuidar el planeta.|Všichni můžeme přispět k ochraně planety.
+convencer|přesvědčit|No consigo [convencerlo] de nada.|Nedaří se mi ho o ničem přesvědčit.
+convertir|přeměnit|Quieren [convertir] la fábrica en museo.|Chtějí přeměnit továrnu na muzeum.
+corregir|opravit|El profesor [corrige] los exámenes.|Učitel opravuje písemky.
+criticar|kritizovat|Es fácil [criticar] a los demás.|Je snadné kritizovat druhé.
+cumplir|splnit, dovršit|Mañana [cumplo] treinta años.|Zítra mi bude třicet.
+dedicarse|věnovat se|Mi hermano [se dedica] a la música.|Můj bratr se věnuje hudbě.
+defender|bránit|Debemos [defender] nuestros derechos.|Musíme bránit svá práva.
+demostrar|prokázat|Los resultados [demuestran] que tenía razón.|Výsledky prokazují, že měl pravdu.
+denunciar|oznámit, nahlásit|Ella [denunció] el robo a la policía.|Nahlásila krádež policii.
+desaparecer|zmizet|Mis llaves [han desaparecido] otra vez.|Moje klíče zase zmizely.
+desarrollar|rozvíjet|Esta empresa [desarrolla] aplicaciones para móviles.|Tato firma vyvíjí aplikace pro mobily.
+descubrir|objevit|Los científicos [descubrieron] una especie nueva.|Vědci objevili nový druh.
+desear|přát si|[Deseo] que todo salga bien.|Přeji si, aby všechno dopadlo dobře.
+despedir|propustit|La empresa [despidió] a cien trabajadores.|Firma propustila sto zaměstnanců.
+destruir|zničit|El fuego [destruyó] el bosque.|Oheň zničil les.
+detener|zadržet|La policía [detuvo] al ladrón.|Policie zadržela zloděje.
+dirigir|řídit, vést|Mi tío [dirige] una empresa pequeña.|Můj strýc vede malou firmu.
+discutir|hádat se, diskutovat|Mis padres nunca [discuten] delante de nosotros.|Rodiče se před námi nikdy nehádají.
+disculparse|omluvit se|Debes [disculparte] con tu hermana.|Měl by ses své sestře omluvit.
+diseñar|navrhovat (design), projektovat|Mi prima [diseña] ropa para niños.|Moje sestřenice navrhuje dětské oblečení.
+distinguir|rozlišit|No sé [distinguir] estos dos colores.|Neumím rozlišit tyto dvě barvy.
+dudar|pochybovat|[Dudo] que llegue a tiempo.|Pochybuji, že přijde včas.
+educar|vychovávat|Es difícil [educar] a los hijos hoy.|Dnes je těžké vychovávat děti.
+emocionar|dojmout, nadchnout|Esta canción me [emociona] mucho.|Tato píseň mě velmi dojímá.
+emplear|zaměstnat, použít|La fábrica [emplea] a mucha gente.|Továrna zaměstnává hodně lidí.
+encantar|nadchnout, moc se líbit|Me [encanta] viajar en tren.|Miluji cestování vlakem.
+encargarse|postarat se|[Me encargo] yo de las bebidas.|O nápoje se postarám já.
+enamorarse|zamilovat se|Ella [se enamoró] de un chico español.|Zamilovala se do španělského kluka.
+enterarse|dozvědět se|¿[Te has enterado] de lo que pasó?|Dozvěděl ses, co se stalo?
+entregar|předat, odevzdat|Debes [entregar] el trabajo el lunes.|Práci musíš odevzdat v pondělí.
+escapar|utéct|El preso [escapó] de la cárcel.|Vězeň utekl z věznice.
+esconder|schovat|El niño [esconde] el juguete debajo de la cama.|Chlapec schovává hračku pod postel.
+esforzarse|snažit se, namáhat se|[Me esfuerzo] mucho para aprobar.|Hodně se snažím, abych udělal zkoušku.
+establecer|stanovit, založit|Hay que [establecer] unas normas claras.|Je třeba stanovit jasná pravidla.
+evitar|vyhnout se|Intento [evitar] el tráfico por la mañana.|Snažím se ráno vyhnout dopravě.
+exigir|vyžadovat|El jefe [exige] puntualidad a todos.|Šéf vyžaduje od všech dochvilnost.
+existir|existovat|Esa palabra no [existe] en español.|Toto slovo ve španělštině neexistuje.
+experimentar|zažít, vyzkoušet|Quiero [experimentar] otra forma de vida.|Chci vyzkoušet jiný způsob života.
+extrañar|divit se, připadat divné|Me [extraña] que no haya llamado.|Divím se, že nezavolal.
+fabricar|vyrábět|Aquí [fabrican] coches eléctricos.|Tady vyrábějí elektrická auta.
+facilitar|usnadnit|Internet [facilita] mucho nuestra vida.|Internet nám hodně usnadňuje život.
+formar|tvořit, vzdělávat|Ellos [forman] una pareja perfecta.|Tvoří dokonalý pár.
+fumar|kouřit|Mi padre dejó de [fumar] hace años.|Můj otec přestal kouřit před lety.
+gozar|těšit se (čemu), užívat si|Mi abuela [goza] de buena salud.|Moje babička se těší dobrému zdraví.
+grabar|nahrávat|Vamos a [grabar] la clase en vídeo.|Natočíme hodinu na video.
+gritar|křičet|No [grites], te oigo bien.|Nekřič, slyším tě dobře.
+huir|utíkat, prchat|Los vecinos [huyeron] del incendio.|Sousedé utekli před požárem.
+imaginar|představovat si|[Imagino] que estarás muy cansado.|Představuji si, že budeš velmi unavený.
+impedir|zabránit|La nieve [impide] llegar al pueblo.|Sníh brání dojet do vesnice.
+incluir|zahrnovat|El precio [incluye] el desayuno.|Cena zahrnuje snídani.
+indicar|ukázat, označit|El cartel [indica] la salida.|Cedule ukazuje východ.
+influir|ovlivnit|La música [influye] en mi estado de ánimo.|Hudba ovlivňuje mou náladu.
+informar|informovat|Nos [informaron] del cambio de horario.|Informovali nás o změně rozvrhu.
+inscribirse|zapsat se|[Me inscribí] en un curso de cocina.|Zapsal jsem se na kurz vaření.
+insistir|trvat na|Mi madre [insiste] en acompañarme.|Matka trvá na tom, že mě doprovodí.
+instalar|nainstalovat|Voy a [instalar] una aplicación nueva.|Nainstaluji novou aplikaci.
+interesar|zajímat|Me [interesa] mucho la historia antigua.|Hodně mě zajímá starověk.
+investigar|zkoumat, vyšetřovat|La policía [investiga] el caso.|Policie případ vyšetřuje.
+juzgar|soudit|No debes [juzgar] a nadie sin conocerlo.|Neměl bys nikoho soudit, aniž bys ho znal.
+lamentar|litovat, želet|[Lamento] mucho la noticia.|Moc mě mrzí ta zpráva.
+lograr|dosáhnout|Por fin [logré] aprobar el examen.|Konečně se mi podařilo udělat zkoušku.
+luchar|bojovat|Hay que [luchar] por lo que uno quiere.|Je třeba bojovat za to, co člověk chce.
+mantener|udržovat|Es importante [mantener] la calma.|Je důležité zachovat klid.
+matar|zabít|Nunca debemos [matar] a los animales.|Zvířata bychom nikdy neměli zabíjet.
+medir|měřit|Esta mesa [mide] dos metros.|Tento stůl měří dva metry.
+mencionar|zmínit|Ella no [mencionó] su viaje.|Nezmínila svou cestu.
+merecer|zasloužit si|Tu esfuerzo [merece] un premio.|Tvoje úsilí si zaslouží odměnu.
+mudarse|stěhovat se|Mis tíos [se mudan] a Valencia.|Moji strýc s tetou se stěhují do Valencie.
+negar|popřít|El acusado [niega] todo.|Obžalovaný všechno popírá.
+obedecer|poslechnout|Los niños [obedecen] a sus padres.|Děti poslouchají své rodiče.
+obligar|přinutit|Nadie te [obliga] a venir.|Nikdo tě nenutí, abys přišel.
+observar|pozorovat|Me gusta [observar] a los pájaros.|Rád pozoruji ptáky.
+obtener|získat|Es difícil [obtener] un visado.|Je těžké získat vízum.
+ocupar|zabrat, obsadit|Este armario [ocupa] mucho espacio.|Tato skříň zabírá hodně místa.
+odiar|nenávidět|[Odio] esperar en las colas.|Nesnáším čekání ve frontách.
+opinar|mít názor|¿Qué [opinas] de esta idea?|Co si o tom nápadu myslíš?
+participar|zúčastnit se|Mucha gente [participa] en el concurso.|Soutěže se účastní hodně lidí.
+pertenecer|patřit|Este coche [pertenece] a mi vecino.|Toto auto patří mému sousedovi.
+prohibir|zakázat|Aquí [prohíben] fumar.|Tady je zakázáno kouřit.
+proponer|navrhnout|[Propongo] ir al cine esta noche.|Navrhuji jít dnes večer do kina.
+proteger|chránit|Los padres [protegen] a sus hijos.|Rodiče chrání své děti.
+provocar|způsobit, vyprovokovat|La lluvia [provocó] un accidente grave.|Déšť způsobil vážnou nehodu.
+publicar|vydat, zveřejnit|El escritor [publicará] su novela en mayo.|Spisovatel vydá svůj román v květnu.
+quemar|spálit, připálit|No [quemes] la comida, por favor.|Nepřipal to jídlo, prosím.
+rechazar|odmítnout|Ella [rechazó] la oferta de trabajo.|Odmítla nabídku práce.
+reconocer|poznat, uznat|Te [reconocí] por la voz.|Poznal jsem tě podle hlasu.
+recuperar|získat zpět|Quiero [recuperar] mi dinero.|Chci získat zpět své peníze.
+reducir|snížit|Hay que [reducir] el consumo de plástico.|Je třeba snížit spotřebu plastu.
+referirse|odkazovat, týkat se|¿A qué [te refieres] exactamente?|Co přesně máš na mysli?
+relajarse|uvolnit se|Los domingos [me relajo] en el sofá.|V neděli relaxuji na pohovce.
+renunciar|vzdát se|Él [renunció] a su trabajo.|Vzdal se svého místa.
+resolver|vyřešit|Tenemos que [resolver] este problema hoy.|Musíme tento problém vyřešit ještě dnes.
+resultar|ukázat se, vyjít|El viaje [resultó] muy caro.|Cesta se ukázala být velmi drahá.
+retirar|odebrat, vybrat (peníze), odstranit|Voy a [retirar] dinero del cajero.|Vyberu peníze z bankomatu.
+revisar|projít, přezkoumat|[Revisa] el texto antes de enviarlo.|Projdi text, než ho pošleš.
+rodear|obklopovat|Un jardín enorme [rodea] la casa.|Dům obklopuje obrovská zahrada.
+sacar|vytáhnout, vyndat|[Saca] el pan del horno.|Vyndej chleba z trouby.
+señalar|poukázat|Ella [señaló] un error en el informe.|Poukázala na chybu ve zprávě.
+soler|obvykle něco dělat|[Suelo] cenar a las nueve.|Obvykle večeřím v devět.
+solucionar|vyřešit|El técnico [solucionó] el problema rápidamente.|Technik problém rychle vyřešil.
+sorprender|překvapit|Su respuesta me [sorprendió] mucho.|Jeho odpověď mě velmi překvapila.
+sospechar|podezřívat|[Sospecho] que miente.|Mám podezření, že lže.
+sostener|držet, podpírat|[Sostén] la escalera un momento, por favor.|Podrž ten žebřík chvíli, prosím.
+suceder|stát se|¿Qué [sucedió] anoche en la calle?|Co se včera v noci stalo na ulici?
+sugerir|doporučit, naznačit|El camarero nos [sugiere] el pescado.|Číšník nám doporučuje rybu.
+suponer|předpokládat|[Supongo] que tienes razón.|Předpokládám, že máš pravdu.
+surgir|vzniknout|Siempre [surgen] problemas imprevistos.|Vždycky vzniknou nečekané problémy.
+tolerar|snášet, tolerovat|No [tolero] la mentira.|Netoleruji lež.
+valer|mít cenu, stát|Esta pulsera [vale] mucho dinero.|Tento náramek stojí hodně peněz.
+vencer|zvítězit|Nuestro equipo [venció] por dos goles.|Náš tým zvítězil o dva góly.
+vigilar|hlídat|Una cámara [vigila] la entrada.|Vchod hlídá kamera.
+votar|hlasovat|Mañana todos vamos a [votar].|Zítra půjdeme všichni volit.
+
+# Abstraktní podstatná jména
+la actitud|postoj|Tiene una [actitud] muy positiva.|Má velmi pozitivní postoj.
+el ambiente|prostředí, atmosféra|En este bar hay muy buen [ambiente].|V tomto baru je skvělá atmosféra.
+el aspecto|vzhled, hledisko|Tiene un [aspecto] cansado hoy.|Dnes vypadá unaveně.
+la autoridad|autorita, úřad|Hay que respetar a la [autoridad].|Autoritu je třeba respektovat.
+el cambio|změna|Necesito un [cambio] en mi vida.|Potřebuji v životě změnu.
+la campaña|kampaň|Hay una [campaña] contra el ruido.|Probíhá kampaň proti hluku.
+el carácter|povaha|Mi hermano tiene un [carácter] fuerte.|Můj bratr má silnou povahu.
+la causa|příčina|Se desconoce la [causa] del accidente.|Příčina nehody není známa.
+la ciencia|věda|La [ciencia] avanza muy rápido.|Věda postupuje velmi rychle.
+la comunicación|komunikace|La [comunicación] en el equipo es buena.|Komunikace v týmu je dobrá.
+la conclusión|závěr|Llegamos a la misma [conclusión].|Došli jsme ke stejnému závěru.
+la confianza|důvěra|Tengo mucha [confianza] en ella.|Hodně jí důvěřuji.
+el conflicto|konflikt|Quieren evitar un [conflicto] con los vecinos.|Chtějí se vyhnout konfliktu se sousedy.
+el conocimiento|znalost|Tiene mucho [conocimiento] de historia.|Má hodně znalostí z dějepisu.
+la consecuencia|důsledek|La falta de lluvia tiene graves [consecuencias].|Nedostatek deště má vážné důsledky.
+el consejo|rada|Voy a seguir tu [consejo].|Budu se řídit tvou radou.
+la costumbre|zvyk|Es una [costumbre] muy antigua.|Je to velmi starý zvyk.
+la crisis|krize|El país vive una [crisis] económica.|Země prožívá hospodářskou krizi.
+la cultura|kultura|Me interesa la [cultura] latinoamericana.|Zajímá mě latinskoamerická kultura.
+el derecho|právo|Todos tenemos [derecho] a la educación.|Všichni máme právo na vzdělání.
+el desarrollo|rozvoj, vývoj|El [desarrollo] del proyecto va bien.|Vývoj projektu jde dobře.
+la diferencia|rozdíl|¿Cuál es la [diferencia] entre estos dos?|Jaký je rozdíl mezi těmito dvěma?
+la discusión|hádka, diskuse|Tuvimos una [discusión] por el dinero.|Pohádali jsme se kvůli penězům.
+la economía|ekonomika|La [economía] del país mejora.|Ekonomika země se zlepšuje.
+la educación|vzdělání, výchova|La [educación] es la base de todo.|Vzdělání je základ všeho.
+el efecto|účinek|Esta medicina no tiene ningún [efecto].|Tento lék nemá žádný účinek.
+el ejemplo|příklad|Dame un [ejemplo], por favor.|Dej mi příklad, prosím.
+la elección|volba, volby|Es una [elección] muy difícil.|Je to velmi těžká volba.
+la energía|energie|Hoy no tengo [energía] para nada.|Dnes nemám na nic energii.
+la época|doba, období|Era una [época] muy diferente.|Byla to velmi odlišná doba.
+el error|chyba|Hay un [error] en esta frase.|V této větě je chyba.
+la esperanza|naděje|No pierdas la [esperanza].|Neztrácej naději.
+la experiencia|zkušenost|Tiene mucha [experiencia] en este trabajo.|Má s touto prací hodně zkušeností.
+la fama|sláva|Con la [fama] llegó el dinero.|Se slávou přišly peníze.
+el futuro|budoucnost|Pienso mucho en mi [futuro].|Hodně myslím na svou budoucnost.
+el gobierno|vláda|El [gobierno] anuncia nuevas medidas.|Vláda oznamuje nová opatření.
+el grupo|skupina|Trabajamos en [grupo] con frecuencia.|Často pracujeme ve skupině.
+el hecho|fakt, skutek|Es un [hecho] que nadie puede negar.|Je to fakt, který nikdo nemůže popřít.
+la idea|nápad, myšlenka|Es una [idea] excelente.|Je to výborný nápad.
+la igualdad|rovnost|Luchan por la [igualdad] de derechos.|Bojují za rovnost práv.
+la imagen|obraz, image|Esta [imagen] es muy bonita.|Tento obrázek je velmi hezký.
+la industria|průmysl|La [industria] del turismo crece cada año.|Turistický průmysl roste každý rok.
+la influencia|vliv|Tiene mucha [influencia] en la política.|Má velký vliv v politice.
+el interés|zájem, úrok|Muestra mucho [interés] por el arte.|Projevuje velký zájem o umění.
+la juventud|mládí, mládež|La [juventud] quiere cambiar el mundo.|Mládež chce změnit svět.
+la ley|zákon|Nadie está por encima de la [ley].|Nikdo není nad zákonem.
+la libertad|svoboda|La [libertad] es muy importante.|Svoboda je velmi důležitá.
+el límite|hranice, limit|Hay un [límite] de velocidad aquí.|Je tu omezení rychlosti.
+la mayoría|většina|La [mayoría] votó a favor.|Většina hlasovala pro.
+el medio ambiente|životní prostředí|Hay que proteger el [medio ambiente].|Je třeba chránit životní prostředí.
+la memoria|paměť|Tengo mala [memoria] para los nombres.|Mám špatnou paměť na jména.
+el mundo|svět|Quiero conocer el [mundo].|Chci poznat svět.
+la naturaleza|příroda|Me encanta pasear por la [naturaleza].|Miluji procházky přírodou.
+la necesidad|potřeba|Hay una gran [necesidad] de médicos.|Je velká potřeba lékařů.
+el negocio|obchod, podnik|Mi tío tiene un [negocio] propio.|Můj strýc má vlastní podnik.
+la obligación|povinnost|Votar es una [obligación] moral.|Volit je morální povinnost.
+la opinión|názor|Respeto tu [opinión], pero no la comparto.|Respektuji tvůj názor, ale nesdílím ho.
+la oportunidad|příležitost|Es una buena [oportunidad] para viajar.|Je to dobrá příležitost k cestování.
+el orden|pořádek, řád|Me gusta el [orden] en mi casa.|Mám rád pořádek ve svém domě.
+la paz|mír|Todos queremos vivir en [paz].|Všichni chceme žít v míru.
+el pasado|minulost|No quiero hablar del [pasado].|Nechci mluvit o minulosti.
+el paso|krok|Es un [paso] muy importante.|Je to velmi důležitý krok.
+el permiso|povolení, dovolení|Necesito [permiso] para entrar.|Potřebuji povolení ke vstupu.
+el personaje|postava|El [personaje] principal es un detective.|Hlavní postava je detektiv.
+el peligro|nebezpečí|Hay [peligro] de incendio.|Hrozí nebezpečí požáru.
+el planeta|planeta|Debemos cuidar nuestro [planeta].|Měli bychom pečovat o naši planetu.
+la población|obyvatelstvo|La [población] de la ciudad crece.|Počet obyvatel města roste.
+la política|politika|No me interesa la [política].|Politika mě nezajímá.
+el político|politik|Ese [político] habla muy bien.|Ten politik mluví velmi dobře.
+el presente|přítomnost|Hay que vivir el [presente].|Je třeba žít přítomností.
+el problema|problém|Tenemos un [problema] con el coche.|Máme problém s autem.
+el proceso|proces|El [proceso] es largo y complicado.|Ten proces je dlouhý a složitý.
+el producto|výrobek|Este [producto] es de buena calidad.|Tento výrobek je dobré kvality.
+el progreso|pokrok|Veo un gran [progreso] en tu español.|Vidím velký pokrok v tvé španělštině.
+el proyecto|projekt|El [proyecto] empieza en septiembre.|Projekt začíná v září.
+la propuesta|návrh|Aceptamos tu [propuesta].|Přijímáme tvůj návrh.
+la prueba|zkouška, důkaz|Mañana tenemos una [prueba] de gramática.|Zítra máme test z gramatiky.
+la razón|důvod, pravda|Creo que tienes [razón].|Myslím, že máš pravdu.
+la realidad|skutečnost|La [realidad] es muy diferente.|Skutečnost je velmi odlišná.
+la región|region|Esta [región] es famosa por su vino.|Tento region je slavný svým vínem.
+el resultado|výsledek|El [resultado] fue muy bueno.|Výsledek byl velmi dobrý.
+el riesgo|riziko|Es un [riesgo] demasiado grande.|Je to příliš velké riziko.
+la sociedad|společnost|La [sociedad] cambia muy rápido.|Společnost se mění velmi rychle.
+la solución|řešení|Todavía no hay [solución].|Zatím není řešení.
+la suerte|štěstí|¡Buena [suerte] en el examen!|Hodně štěstí u zkoušky!
+el tema|téma|Es un [tema] muy delicado.|Je to velmi citlivé téma.
+la verdad|pravda|Dime la [verdad].|Řekni mi pravdu.
+el valor|hodnota, odvaha|Este cuadro tiene mucho [valor].|Tento obraz má velkou hodnotu.
+la vez|krát, příležitost|Es la primera [vez] que viajo solo.|Je to poprvé, co cestuji sám.
+la vida|život|La [vida] en el pueblo es tranquila.|Život na vesnici je klidný.
+la violencia|násilí|Debemos decir no a la [violencia].|Musíme říct ne násilí.
+la voz|hlas|Tiene una [voz] muy bonita.|Má velmi krásný hlas.
+el sentido|smysl, význam|Esta frase no tiene [sentido].|Tato věta nedává smysl.
+el servicio|služba, obsluha|El [servicio] en este hotel es excelente.|Obsluha v tomto hotelu je výborná.
+la seguridad|bezpečí, jistota|Viajamos con toda [seguridad].|Cestujeme v plném bezpečí.
+la situación|situace|La [situación] es muy complicada.|Situace je velmi složitá.
+el sistema|systém|El [sistema] no funciona bien.|Systém nefunguje správně.
+el sueño|sen, spánek, ospalost|Tengo mucho [sueño] hoy.|Dnes jsem hodně ospalý.
+el tipo|druh, typ|¿Qué [tipo] de música te gusta?|Jaký druh hudby máš rád?
+la tradición|tradice|Es una [tradición] de mi familia.|Je to tradice mé rodiny.
+el transporte|doprava|El [transporte] público es barato.|Veřejná doprava je levná.
+el turismo|turistika, cestovní ruch|El [turismo] es muy importante aquí.|Cestovní ruch je tady velmi důležitý.
+la unión|spojení, jednota|La [unión] hace la fuerza.|Svornost dělá sílu.
+la ventaja|výhoda|Vivir cerca del trabajo es una [ventaja].|Bydlet blízko práce je výhoda.
+la desventaja|nevýhoda|La [desventaja] es el precio.|Nevýhodou je cena.
+el dato|údaj|Necesito más [datos] sobre el proyecto.|Potřebuji víc údajů o projektu.
+el estilo|styl|Me gusta tu [estilo] de vestir.|Líbí se mi tvůj styl oblékání.
+el ánimo|nálada, odvaha|¡[Ánimo], tú puedes!|Hlavu vzhůru, ty to dokážeš!
+el sentimiento|cit, pocit|Tengo un [sentimiento] extraño.|Mám zvláštní pocit.
+el éxito|úspěch|Tuvo mucho [éxito] con su libro.|Se svou knihou měl velký úspěch.
+el fracaso|neúspěch|El proyecto fue un [fracaso].|Projekt byl nezdar.
+el esfuerzo|úsilí|Aprobar requiere [esfuerzo].|Udělat zkoušku vyžaduje úsilí.
+la habilidad|dovednost|Tiene mucha [habilidad] con las manos.|Je velmi zručný.
+el talento|talent|Esa chica tiene mucho [talento].|Ta dívka má velký talent.
+la diversión|zábava|Para mí, bailar es pura [diversión].|Pro mě je tanec čistá zábava.
+la soledad|samota|A veces necesito [soledad].|Někdy potřebuji samotu.
+la amistad|přátelství|Nuestra [amistad] es muy antigua.|Naše přátelství je velmi staré.
+la pareja|pár, partner|Mi hermano vive con su [pareja].|Můj bratr žije se svou partnerkou.
+los jóvenes|mladí lidé|Los [jóvenes] prefieren vivir en la ciudad.|Mladí lidé raději žijí ve městě.
+los demás|ostatní|Hay que respetar a [los demás].|Je třeba respektovat ostatní.
+el adulto|dospělý|Este curso es solo para [adultos].|Tento kurz je jen pro dospělé.
+el ciudadano|občan|Cada [ciudadano] tiene derechos.|Každý občan má práva.
+el inmigrante|přistěhovalec|Muchos [inmigrantes] trabajan en el campo.|Mnoho přistěhovalců pracuje na polích.
+
+# Práce a společnost
+el empleo|zaměstnání|Busco un [empleo] nuevo.|Hledám nové zaměstnání.
+el empleado|zaměstnanec|Cada [empleado] tiene su propio ordenador.|Každý zaměstnanec má svůj počítač.
+el desempleo|nezaměstnanost|El [desempleo] baja este año.|Nezaměstnanost letos klesá.
+la entrevista|rozhovor, pohovor|Mañana tengo una [entrevista] de trabajo.|Zítra mám pracovní pohovor.
+el currículum|životopis|Voy a enviar mi [currículum].|Pošlu svůj životopis.
+el contrato|smlouva|Firmé el [contrato] ayer.|Včera jsem podepsal smlouvu.
+la jornada|pracovní den|Mi [jornada] termina a las cinco.|Můj pracovní den končí v pět.
+la huelga|stávka|Mañana hay [huelga] de trenes.|Zítra je stávka vlaků.
+la fábrica|továrna|Mi padre trabaja en una [fábrica].|Můj otec pracuje v továrně.
+la oficina de turismo|turistické informační centrum|Pregunta en la [oficina de turismo].|Zeptej se v turistickém informačním centru.
+el impuesto|daň|Los [impuestos] suben cada año.|Daně rostou každý rok.
+la deuda|dluh|Tiene una [deuda] muy grande.|Má velký dluh.
+el préstamo|půjčka|Pidió un [préstamo] al banco.|Požádal banku o půjčku.
+el ahorro|úspora|Gasté todos mis [ahorros] en el coche.|Utratil jsem všechny své úspory za auto.
+la riqueza|bohatství|La [riqueza] no da la felicidad.|Bohatství štěstí nedává.
+el comercio|obchod (odvětví), obchodování|El [comercio] internacional crece cada año.|Mezinárodní obchod roste každý rok.
+el mercado laboral|trh práce|El [mercado laboral] está difícil.|Trh práce je teď náročný.
+la ayuda|pomoc|Necesito tu [ayuda] urgente.|Potřebuji naléhavě tvoji pomoc.
+la manifestación|demonstrace|Hubo una gran [manifestación] en la plaza.|Na náměstí byla velká demonstrace.
+el presidente|prezident, předseda|El [presidente] habla esta noche.|Prezident dnes večer promluví.
+el alcalde|starosta|El [alcalde] abre el festival.|Starosta zahajuje festival.
+el ayuntamiento|radnice|Voy al [ayuntamiento] a pedir un papel.|Jdu na radnici pro dokument.
+la policía|policie|Llamamos a la [policía].|Voláme policii.
+el crimen|zločin|El [crimen] ocurrió de noche.|Zločin se stal v noci.
+el ladrón|zloděj|El [ladrón] entró por la ventana.|Zloděj vlezl oknem.
+el robo|krádež, loupež|Hubo un [robo] en el banco.|V bance došlo k loupeži.
+el juez|soudce|El [juez] leyó la sentencia.|Soudce přečetl rozsudek.
+la cárcel|vězení|Pasó dos años en la [cárcel].|Strávil dva roky ve vězení.
+la guerra|válka|Nadie quiere la [guerra].|Nikdo nechce válku.
+el ejército|armáda|Mi hermano está en el [ejército].|Můj bratr je v armádě.
+la religión|náboženství|En esta región la [religión] es importante.|V tomto regionu je náboženství důležité.
+la sanidad|zdravotnictví|La [sanidad] pública es gratuita.|Veřejné zdravotnictví je zdarma.
+el seguro|pojištění|Tengo un [seguro] de viaje.|Mám cestovní pojištění.
+
+# Média a technika
+los medios|média|Los [medios] hablan mucho del tema.|Média o tom hodně mluví.
+la prensa|tisk|La [prensa] critica al gobierno.|Tisk kritizuje vládu.
+el reportaje|reportáž|Vi un [reportaje] sobre el campo.|Viděl jsem reportáž o venkově.
+el titular|titulek|Leo solo el [titular] del periódico.|Čtu jen titulek v novinách.
+el artículo|článek|Escribí un [artículo] para la revista.|Napsal jsem článek do časopisu.
+el canal|kanál|¿Qué [canal] quieres ver?|Který kanál chceš sledovat?
+la red|síť|Mi móvil no tiene [red].|Můj mobil nemá signál.
+el correo electrónico|e-mail|Te envío un [correo electrónico].|Pošlu ti e-mail.
+la tecnología|technologie|La [tecnología] cambia nuestra vida.|Technologie mění náš život.
+el robot|robot|Un [robot] limpia mi casa.|Robot uklízí můj dům.
+el vídeo|video|Vi un [vídeo] muy divertido.|Viděl jsem velmi vtipné video.
+el programa de ordenador|počítačový program|Este [programa de ordenador] es gratis.|Tento počítačový program je zdarma.
+el archivo|soubor, archiv|Guardé el [archivo] en el escritorio.|Uložil jsem soubor na plochu.
+el enlace|odkaz|Te mando el [enlace] por correo.|Pošlu ti odkaz e-mailem.
+descargar|stáhnout|Voy a [descargar] la aplicación.|Stáhnu si tu aplikaci.
+conectar|připojit|No puedo [conectar] el ordenador a internet.|Nemůžu připojit počítač k internetu.
+
+# Životní prostředí
+la contaminación|znečištění|Hay mucha [contaminación] en el centro.|V centru je hodně znečištění.
+el cambio climático|změna klimatu|El [cambio climático] es un gran problema.|Změna klimatu je velký problém.
+el clima|podnebí|El [clima] de Málaga es suave.|Podnebí v Málaze je mírné.
+el reciclaje|recyklace|El [reciclaje] es muy importante.|Recyklace je velmi důležitá.
+el residuo|odpad|Separamos los [residuos] en casa.|Doma třídíme odpad.
+el plástico|plast|Quiero usar menos [plástico].|Chci používat méně plastu.
+la sequía|sucho|La [sequía] afecta a los agricultores.|Sucho postihuje zemědělce.
+la inundación|povodeň|La [inundación] destruyó el puente.|Povodeň zničila most.
+el incendio|požár|Un [incendio] quemó el bosque.|Požár spálil les.
+el terremoto|zemětřesení|Hubo un [terremoto] en Chile.|V Chile bylo zemětřesení.
+el desierto|poušť|El [desierto] de Tabernas está en Almería.|Poušť Tabernas je v Almeríi.
+la selva|džungle|La [selva] amazónica es enorme.|Amazonský prales je obrovský.
+el paisaje|krajina|El [paisaje] es espectacular.|Krajina je úchvatná.
+el valle|údolí|Vivimos en un [valle] muy verde.|Žijeme v moc zeleném údolí.
+la roca|skála|Escalamos una [roca] enorme.|Šplhali jsme na obrovskou skálu.
+la cueva|jeskyně|Visitamos una [cueva] prehistórica.|Navštívili jsme pravěkou jeskyni.
+la cima|vrchol|Llegamos a la [cima] al mediodía.|Na vrchol jsme dorazili v poledne.
+el camino|cesta|Este [camino] lleva al pueblo.|Tato cesta vede do vesnice.
+la granja|farma|Pasamos el verano en una [granja].|Léto jsme strávili na farmě.
+el huerto|zahrádka, sad|Mi abuelo cultiva un [huerto].|Můj dědeček pěstuje zahrádku.
+la cosecha|sklizeň|La [cosecha] de este año es buena.|Letošní sklizeň je dobrá.
+
+# Zdraví a život
+la salud|zdraví|La [salud] es lo más importante.|Zdraví je to nejdůležitější.
+el síntoma|příznak|La fiebre es un [síntoma] de gripe.|Horečka je příznakem chřipky.
+la herida|rána|La [herida] no es grave.|Rána není vážná.
+la operación|operace|Mañana tiene una [operación] del corazón.|Zítra má operaci srdce.
+el tratamiento|léčba|El [tratamiento] dura tres semanas.|Léčba trvá tři týdny.
+la dieta|dieta|Estoy a [dieta] desde enero.|Držím dietu od ledna.
+el estrés|stres|Tengo mucho [estrés] en el trabajo.|V práci mám hodně stresu.
+el hábito|zvyk, návyk|Fumar es un mal [hábito].|Kouření je špatný zlozvyk.
+la mejora|zlepšení|Hay una [mejora] en su salud.|Jeho zdraví se zlepšilo.
+la herencia|dědictví|Recibió una [herencia] de su abuelo.|Zdědil po dědečkovi dědictví.
+el funeral|pohřeb|El [funeral] es mañana por la tarde.|Pohřeb je zítra odpoledne.
+
+# Přídavná jména
+actual|současný|La situación [actual] es difícil.|Současná situace je těžká.
+adecuado|vhodný|Este lugar es [adecuado] para la fiesta.|Toto místo je vhodné na večírek.
+agradable|příjemný|Hace una temperatura muy [agradable].|Je velmi příjemná teplota.
+alegre|veselý|Mi abuela es una mujer [alegre].|Moje babička je veselá žena.
+ambos|oba|[Ambos] hermanos viven en Sevilla.|Oba bratři bydlí v Seville.
+antipático|nesympatický|El vecino es un poco [antipático].|Soused je trochu nesympatický.
+apropiado|vhodný|No es el momento [apropiado].|Není to vhodná chvíle.
+auténtico|pravý, autentický|Es un queso [auténtico] de la región.|Je to pravý sýr z tohoto regionu.
+básico|základní|Necesito un curso [básico] de inglés.|Potřebuji základní kurz angličtiny.
+cercano|blízký|Tengo un amigo muy [cercano].|Mám velmi blízkého přítele.
+cierto|jistý, pravdivý|Es [cierto] lo que dices.|Je pravda, co říkáš.
+complicado|složitý|El sistema es muy [complicado].|Ten systém je velmi složitý.
+común|běžný, společný|Es un nombre muy [común].|Je to velmi běžné jméno.
+conocido|známý|Es un restaurante muy [conocido].|Je to velmi známá restaurace.
+consciente|vědomý|Soy [consciente] del problema.|Jsem si toho problému vědom.
+curioso|zvědavý, kuriózní|Mi hijo es muy [curioso].|Můj syn je velmi zvědavý.
+dispuesto|ochotný|Estoy [dispuesto] a ayudarte.|Jsem ochoten ti pomoci.
+efectivo|účinný|Este método es muy [efectivo].|Tato metoda je velmi účinná.
+enorme|obrovský|Vive en una casa [enorme].|Bydlí v obrovském domě.
+entero|celý|Estudié el libro [entero].|Prostudoval jsem celou knihu.
+especial|zvláštní|Hoy es un día muy [especial].|Dnes je velmi výjimečný den.
+estricto|přísný|Mi profesor es muy [estricto].|Můj učitel je velmi přísný.
+exacto|přesný|Necesito el precio [exacto].|Potřebuji přesnou cenu.
+extraño|divný, podivný|Oigo un ruido [extraño].|Slyším divný zvuk.
+formal|formální|Esta carta es muy [formal].|Tento dopis je velmi formální.
+general|obecný, všeobecný|Hay una huelga [general] mañana.|Zítra je generální stávka.
+generoso|štědrý|Mi tío es muy [generoso].|Můj strýc je velmi štědrý.
+grave|vážný|Es un problema [grave].|Je to vážný problém.
+honesto|poctivý|Es un hombre muy [honesto].|Je to velmi poctivý muž.
+humano|lidský|Es un error [humano].|Je to lidská chyba.
+ilegal|nelegální|Es [ilegal] aparcar aquí.|Je zakázáno tady parkovat.
+imprescindible|nepostradatelný|El pasaporte es [imprescindible].|Pas je nepostradatelný.
+incómodo|nepohodlný|Este sillón es muy [incómodo].|Toto křeslo je velmi nepohodlné.
+increíble|neuvěřitelný|La vista es [increíble].|Výhled je neuvěřitelný.
+independiente|nezávislý|Mi hija ya es [independiente].|Moje dcera je už samostatná.
+inteligente|chytrý, inteligentní|Es un chico muy [inteligente].|Je to velmi chytrý kluk.
+injusto|nespravedlivý|Es [injusto] pagar tanto.|Je nespravedlivé tolik platit.
+justo|spravedlivý|El juez fue muy [justo].|Soudce byl velmi spravedlivý.
+local|místní|Compro productos [locales].|Kupuji místní produkty.
+maravilloso|nádherný|Fue un viaje [maravilloso].|Byla to nádherná cesta.
+nacional|národní|Es el equipo [nacional] de fútbol.|Je to národní fotbalový tým.
+obligatorio|povinný|El casco es [obligatorio].|Helma je povinná.
+orgulloso|hrdý|Estoy [orgulloso] de mi hija.|Jsem hrdý na svou dceru.
+paciente|trpělivý|Hay que ser [paciente] con los niños.|S dětmi je třeba mít trpělivost.
+personal|osobní|Es una pregunta muy [personal].|Je to velmi osobní otázka.
+público|veřejný|Voy en transporte [público].|Jezdím veřejnou dopravou.
+real|skutečný|Es una historia [real].|Je to skutečný příběh.
+regular|pravidelný, průměrný|Hago ejercicio de forma [regular].|Cvičím pravidelně.
+responsable|zodpovědný|Soy [responsable] de este proyecto.|Za tento projekt odpovídám já.
+sencillo|jednoduchý|Es una receta muy [sencilla].|Je to velmi jednoduchý recept.
+sincero|upřímný|Voy a ser [sincero] contigo.|Budu k tobě upřímný.
+social|společenský, sociální|Necesito una vida [social] más activa.|Potřebuji aktivnější společenský život.
+sorprendente|překvapivý|El final es [sorprendente].|Konec je překvapivý.
+terrible|hrozný|Hace un calor [terrible].|Je hrozné horko.
+único|jediný, jedinečný|Eres mi [único] amigo aquí.|Jsi můj jediný kamarád tady.
+urgente|naléhavý|Es un mensaje [urgente].|Je to naléhavá zpráva.
+útil|užitečný|Este diccionario es muy [útil].|Tento slovník je velmi užitečný.
+valioso|cenný|Es un regalo muy [valioso].|Je to velmi cenný dárek.
+variado|rozmanitý|El menú es muy [variado].|Jídelní lístek je velmi rozmanitý.
+verdadero|pravý, skutečný|Es un amigo [verdadero].|Je to pravý přítel.
+vivo|živý|Mi abuelo está todavía [vivo].|Můj dědeček je ještě naživu.
+voluntario|dobrovolný|Trabajo como [voluntario] en un hospital.|Pracuji jako dobrovolník v nemocnici.
+sano y salvo|zdráv a v pořádku|Llegamos [sanos y salvos] a casa.|Dorazili jsme domů zdraví a v pořádku.
+molesto|obtěžující, otravný|Es muy [molesto] oír ese ruido.|Je velmi otravné slyšet ten hluk.
+cuidadoso|opatrný|Mi padre es muy [cuidadoso] al conducir.|Můj otec je při řízení velmi opatrný.
+oculto|skrytý|Hay un tesoro [oculto] en la cueva.|V jeskyni je ukrytý poklad.
+
+# Spojky a výrazy
+a pesar de|navzdory|[A pesar de] la lluvia, salimos.|Navzdory dešti jsme vyrazili.
+a menudo|často|[A menudo] como en el trabajo.|Často jím v práci.
+de repente|najednou|[De repente] empezó a llover.|Najednou začalo pršet.
+de todas formas|v každém případě|[De todas formas], te llamaré mañana.|V každém případě ti zítra zavolám.
+en cambio|naopak|Yo soy tranquilo; mi hermano, [en cambio], es nervioso.|Já jsem klidný, můj bratr je naopak nervózní.
+en realidad|ve skutečnosti|[En realidad], no me gusta el café.|Ve skutečnosti nemám rád kávu.
+en cuanto|jakmile|Te aviso [en cuanto] llegue.|Dám ti vědět, jakmile dorazím.
+por lo menos|alespoň|Come [por lo menos] una manzana.|Sněz alespoň jedno jablko.
+sin duda|bezpochyby|Es [sin duda] el mejor restaurante.|Je to bezpochyby nejlepší restaurace.
+así que|takže|Llovía, [así que] nos quedamos en casa.|Pršelo, takže jsme zůstali doma.
+de hecho|ve skutečnosti, vlastně|[De hecho], ya lo sabía.|Vlastně jsem to už věděl.
+por fin|konečně|[Por fin] llegaron las vacaciones.|Konečně přišly prázdniny.
+mientras tanto|mezitím|[Mientras tanto], yo preparo la cena.|Mezitím já připravím večeři.
+tampoco|také ne|Yo [tampoco] quiero ir.|Já taky nechci jít.
+ya que|když už, protože|[Ya que] estás aquí, ayúdame.|Když už tu jsi, pomoz mi.
+sino|ale (po záporu)|No quiero té, [sino] café.|Nechci čaj, ale kávu.
+antes de|před (něčím)|Lávate las manos [antes de] comer.|Umyj si ruce před jídlem.
+después de|po (něčem)|[Después de] cenar, vemos una película.|Po večeři se díváme na film.
+desde luego|samozřejmě|[Desde luego], puedes venir.|Samozřejmě můžeš přijít.
+al final|nakonec|[Al final], no fuimos a la playa.|Nakonec jsme na pláž nejeli.
+de nuevo|znovu|Tengo que empezar [de nuevo].|Musím začít znovu.
+al menos|alespoň|[Al menos] dime tu nombre.|Alespoň mi řekni své jméno.
+en seguida|ihned|Voy [en seguida].|Hned jdu.
+por supuesto|samozřejmě|[Por supuesto], estoy de acuerdo.|Samozřejmě souhlasím.
+es decir|to jest|Llego a las ocho, [es decir], temprano.|Přijedu v osm, tedy brzy.
+a lo mejor|možná, snad|[A lo mejor] hoy llueve.|Možná dnes bude pršet.
+por cierto|mimochodem|[Por cierto], ¿has visto a Ana?|Mimochodem, viděl jsi Anu?
+en general|obecně|[En general], estoy contento.|Celkově jsem spokojený.
+por lo tanto|proto, tudíž|Hay huelga; [por lo tanto], no hay trenes.|Je stávka, proto nejezdí vlaky.
+con tal de que|pokud, za předpokladu|Voy [con tal de que] vengas tú.|Půjdu, pokud půjdeš ty.
+para que|aby|Te llamo [para que] sepas la hora.|Volám ti, abys věděl čas.
+a no ser que|ledaže|Salimos, [a no ser que] llueva.|Půjdeme ven, ledaže bude pršet.
+sin que|aniž by|Entró [sin que] nadie lo viera.|Vešel, aniž by ho někdo viděl.
+lo que|to, co|Dime [lo que] piensas.|Řekni mi, co si myslíš.
+cualquier|jakýkoli|Puedes venir [cualquier] día.|Můžeš přijít kterýkoli den.
+cada vez más|stále více|[Cada vez más] gente viaja en tren.|Stále víc lidí cestuje vlakem.
+poco a poco|pomalu, postupně|[Poco a poco] aprendo español.|Postupně se učím španělsky.
+de vez en cuando|občas|[De vez en cuando] voy al teatro.|Občas jdu do divadla.
+por primera vez|poprvé|Viajo en avión [por primera vez].|Poprvé cestuji letadlem.
+hace tiempo|před časem|Nos conocimos [hace tiempo].|Poznali jsme se před časem.
+hoy en día|v dnešní době|[Hoy en día] casi todos tienen móvil.|V dnešní době má mobil téměř každý.
+tener razón|mít pravdu|Mi madre siempre [tiene razón].|Moje matka má vždycky pravdu.
+tener ganas|mít chuť|[Tengo ganas] de viajar.|Mám chuť cestovat.
+tener prisa|spěchat|[Tengo prisa], me voy.|Spěchám, odcházím.
+tener miedo|bát se|[Tienen miedo] de la oscuridad.|Bojí se tmy.
+hacer falta|být potřeba|[Hace falta] más tiempo.|Je potřeba víc času.
+darse cuenta|uvědomit si|[Me doy cuenta] de mi error.|Uvědomuji si svou chybu.
+llevarse bien|dobře vycházet|[Me llevo bien] con mis vecinos.|S sousedy dobře vycházím.
+echar de menos|stýskat se|[Echo de menos] mi casa.|Stýská se mi po domově.
+tener en cuenta|brát v úvahu|Hay que [tener en cuenta] el precio.|Je třeba brát v úvahu cenu.
+estar de acuerdo|souhlasit|[Estoy de acuerdo] contigo.|Souhlasím s tebou.
+ponerse|stát se, obléknout si|Ella [se pone] nerviosa en los exámenes.|U zkoušek je nervózní.
+hacerse|stát se|Mi hijo quiere [hacerse] médico.|Můj syn se chce stát lékařem.
+volverse|stát se, obrátit se|Ella [se volvió] muy famosa.|Stala se velmi slavnou.
+quedarse sin|zůstat bez|[Me quedé sin] batería en el móvil.|Zůstal jsem bez baterie v mobilu.
